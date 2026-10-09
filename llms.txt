@@ -1,0 +1,9 @@
+# 펫러스뉴스 (PETLUS NEWS)
+
+> 수의사 박근필이 발행하는 반려동물·펫로스 전문 인터넷신문. 반려동물의 건강·행동·생활과 펫로스(반려동물 상실 뒤의 슬픔)를 수의학 근거와 출처를 밝혀 다룬다.
+
+- 발행인·편집인: 박근필(수의사, 20년 가까이 동물병원 임상) — https://tothemoonpark-cpu.github.io/pilacademy/author.html
+- 발행인 소개: https://petlusnews.com/publisher.html
+- 편집 원칙: https://petlusnews.com/about.html
+- 문의: tothemoon_park@naver.com
+

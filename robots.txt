@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://petlusnews.com/sitemap.xml

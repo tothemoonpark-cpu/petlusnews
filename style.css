@@ -1,0 +1,33 @@
+:root{--ink:#1d2433;--sub:#5b6476;--line:#e3e6ec;--bg:#fbfaf7;--card:#fff;--accent:#c4573a;--accent2:#2f6f6a}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:"Pretendard","Noto Sans KR",-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;line-height:1.75;word-break:keep-all}
+a{color:inherit}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+header.top{border-bottom:3px double var(--ink);background:var(--card)}
+.topbar{display:flex;justify-content:space-between;font-size:.8rem;color:var(--sub);padding:8px 0;border-bottom:1px solid var(--line)}
+.mast{text-align:center;padding:22px 0 14px}
+.mast a{text-decoration:none}
+.mast h1{margin:0;font-family:"Noto Serif KR",serif;font-size:clamp(2rem,7vw,3.2rem);letter-spacing:-.02em}
+.mast h1 span{color:var(--accent)}
+.mast p{margin:4px 0 0;color:var(--sub);font-size:.9rem;letter-spacing:.2em}
+nav.sec{display:flex;gap:4px 18px;flex-wrap:wrap;justify-content:center;padding:10px 0;font-weight:600;font-size:.95rem}
+nav.sec a{text-decoration:none;padding:2px 2px}
+nav.sec a:hover{color:var(--accent)}
+main{padding:28px 0 40px}
+.notice{background:var(--card);border:1px solid var(--line);border-left:5px solid var(--accent);padding:22px 24px;border-radius:6px}
+.notice h2{margin:0 0 8px;font-size:1.35rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin-top:24px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:18px 20px}
+.card h3{margin:0 0 6px;font-size:1.05rem;color:var(--accent2)}
+.card p{margin:0;color:var(--sub);font-size:.93rem}
+.doc{background:var(--card);border:1px solid var(--line);border-radius:6px;padding:24px clamp(16px,4vw,36px)}
+.doc h2{margin-top:0}
+.doc h3{margin-top:28px}
+footer{border-top:1px solid var(--line);background:#f1efe9;color:var(--sub);font-size:.82rem;padding:22px 0 30px}
+footer .links{display:flex;gap:6px 16px;flex-wrap:wrap;margin-bottom:12px;font-weight:600;color:var(--ink)}
+footer dl{display:grid;grid-template-columns:max-content 1fr;gap:2px 12px;margin:0}
+footer dt{font-weight:600}
+footer dd{margin:0}
+footer .copy{margin-top:12px}
+@media (max-width:520px){.topbar{flex-direction:column;gap:2px}footer dl{grid-template-columns:1fr}footer dt{margin-top:6px}}

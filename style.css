@@ -117,3 +117,34 @@ footer .copy{margin-top:18px}
 .pub .outlets{font-size:.95rem;line-height:1.9;color:var(--ink2)}
 .pub .faq dt{font-weight:700;margin-top:16px}
 .pub .faq dd{margin:6px 0 0;font-family:var(--serif);line-height:1.85}
+
+/* up4: 분야 메뉴·분야 페이지·모바일 */
+nav.sec a{display:inline-flex;align-items:center;justify-content:center;min-height:48px;text-align:center}
+nav.sec a.on{border-bottom-color:currentColor}
+nav.sec a.cat{font-size:1.02rem}
+nav.sec a.ext{font-weight:500;color:var(--ink2);font-size:.92rem}
+.latest{font-family:var(--serif);font-size:1.5rem;margin:0 0 6px}
+.cat-title .cnt{font-family:var(--sans);font-size:.95rem;font-weight:600;color:var(--ink2);margin-left:6px}
+.cat-desc{margin:0 0 14px;color:var(--ink2);font-size:.95rem}
+.none{padding:22px 18px;background:var(--mist);border-radius:2px;color:var(--ink2);margin:14px 0}
+.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:24px;margin-top:44px;border-top:2px solid var(--ink);padding-top:22px}
+.card h3{margin:0 0 8px;font-family:var(--serif);font-size:1.15rem}
+.card h3 a{text-decoration:none;display:inline-block;min-height:44px;line-height:44px}
+.card ul{margin:0;padding-left:1.1em;font-size:.93rem}
+.card li{margin-bottom:.5em}
+.card .none{margin:0;padding:12px 14px;font-size:.9rem}
+.list .item a{padding:2px 0}
+.news .kicker a{text-decoration:none;display:inline-block;min-height:44px;line-height:44px}
+footer .links a{display:inline-flex;align-items:center;min-height:44px}
+@media (max-width:900px){.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:560px){
+ .grid{grid-template-columns:1fr}
+ nav.sec{margin-top:14px}
+ nav.sec a.cat{flex:1 1 25%;padding:10px 4px;font-size:1rem}
+ nav.sec a.ext{flex:1 1 auto;padding:8px 10px;font-size:.88rem;border-top:1px solid var(--rule)}
+ .mast{padding:20px 0 6px}
+ body{font-size:16.5px}
+ .list .item a{font-size:1.15rem}
+ .doc,.wrap{overflow-wrap:anywhere}
+ footer dd{overflow-wrap:anywhere}
+}

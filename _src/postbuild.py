@@ -157,7 +157,7 @@ def patch(path,rel):
     s=open(path,encoding='utf-8').read()
     pre='../' if rel.startswith('news/') else ''
     pat=f'<a href="{pre}privacy.html">개인정보처리방침</a></div>'
-    if 'editorial.html' in s and f'{pre}editorial.html">편집규약' in s: return s
+    if pat not in s and f'{pre}terms.html">이용약관' in s: return s
     assert pat in s,(path)
     add=''.join(f'<a href="{pre}{u}">{n}</a>' for u,n in NEWLINKS)
     s=s.replace(pat,f'<a href="{pre}privacy.html">개인정보처리방침</a>{add}</div>')

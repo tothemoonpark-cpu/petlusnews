@@ -12,6 +12,8 @@ faq: 슬픔을 글로 쓰면 도움이 되나? | 사별한 사람을 대상으�
  쓰는 것이 힘들면 어떻게 하나? | 억지로 쓸 필요는 없다. 쓰다가 더 힘들어지면 멈추고 믿을 만한 사람이나 상담 전문가에게 이야기하는 것이 좋다.
 sources: Yao 외(2025). Expressive Writing for Grief: A Meta-Analysis of Randomized Controlled Trials. Research on Social Work Practice 36(8):1424-1436 (온라인 공개 2025-09-01, 2026년 11월호 수록) | https://doi.org/10.1177/10497315251371566
  Ghezeljeh TN 외(2023). Effects of family-based dignity intervention and expressive writing on anticipatory grief in family caregivers of patients with cancer: a randomized controlled trial. BMC Psychiatry 23:220 | https://doi.org/10.1186/s12888-023-04715-x
+date: 2026-10-30
+publish: yes
 ---
 슬픔을 글로 쓰면 가벼워진다는 말은 흔하다. 그러나 연구는 조금 더 조심스럽다. 이 글은 애도 글쓰기를 다룬 두 연구의 초록을 소개한다. 두 연구는 모두 사람의 사별이나 돌봄을 다룬 것이며, 반려동물을 떠나보낸 뒤의 슬픔(펫로스 증후군, 펫로스 신드롬)만을 대상으로 한 연구는 아니다.
 

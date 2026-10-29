@@ -207,9 +207,19 @@ pages['privacy.html']=('개인정보처리방침 — 펫러스뉴스','펫러스
 <p>제보자의 신원은 본인의 동의 없이 공개하지 않습니다.</p>
 <h3>5. 이용자의 권리</h3>
 <p>이용자는 자신의 개인정보에 대해 열람, 정정, 삭제, 처리 정지를 요청할 수 있습니다.</p>
-<h3>6. 개인정보 보호책임자</h3>
+<h3>6. 광고와 쿠키</h3>
+<p>펫러스뉴스에는 현재 광고가 없습니다.</p>
+<p>앞으로 구글 애드센스 같은 광고 서비스를 도입할 수 있습니다.</p>
+<p>광고 서비스를 도입하면 구글을 포함한 제3자 광고 사업자가 쿠키를 사용해 이용자의 이전 방문 기록을 바탕으로 광고를 보여 줄 수 있습니다.</p>
+<p>이때 쿠키로 이용자의 이름, 이메일 주소 같은 신원 정보를 수집하지 않습니다.</p>
+<p>광고 서비스를 도입하기 전에 이 방침에 도입 사실과 서비스 이름을 먼저 밝힙니다.</p>
+<p>이용자는 쿠키를 끄거나 맞춤 광고를 거부할 수 있습니다.</p>
+<p>구글의 맞춤 광고는 <a href="https://adssettings.google.com" target="_blank" rel="noopener">구글 광고 설정</a>에서 끌 수 있습니다.</p>
+<p>브라우저 설정의 쿠키 항목에서 쿠키 저장을 막거나 삭제할 수도 있습니다.</p>
+<p>구글의 광고 쿠키 사용 방식은 <a href="https://policies.google.com/technologies/ads?hl=ko" target="_blank" rel="noopener">구글 광고 정책 안내</a>에서 볼 수 있습니다.</p>
+<h3>7. 개인정보 보호책임자</h3>
 <p>성명: 박근필 / 이메일: tothemoon_park@naver.com</p>
-<p>시행일: 2026년 10월 9일</p>
+<p>시행일: 2026년 10월 9일(2026년 10월 29일 개정)</p>
 </article>''')
 PERSON={"@context":"https://schema.org","@type":"Person","name":"박근필","alternateName":"PARK KEUNPIL","jobTitle":["수의사","작가","펫러스뉴스 발행인"],"url":"https://petlusnews.com/publisher.html","email":"tothemoon_park@naver.com","alumniOf":{"@type":"CollegeOrUniversity","name":"경북대학교 수의학과"},"knowsAbout":["수의학","반려동물 건강","반려동물 행동","펫로스","펫로스 증후군","애도","글쓰기","진로"],"worksFor":{"@type":"NewsMediaOrganization","name":"펫러스뉴스","url":"https://petlusnews.com/"},"sameAs":["https://tothemoonpark-cpu.github.io/pilacademy/author.html","https://litt.ly/tothemoonpark","https://blog.naver.com/tothemoon_park","https://brunch.co.kr/@tothemoonpark","https://www.youtube.com/@tothemoonpark","https://www.instagram.com/tothemoon_park/","https://www.threads.com/@tothemoon_park","https://x.com/Tothemoon_Park","http://www.mkspeaker.co.kr/speaker_view.php?no=424"]}
 for f,(t,d,p,body) in pages.items():

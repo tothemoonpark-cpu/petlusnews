@@ -12,6 +12,8 @@ faq: 인정받지 못한 슬픔이란? | 상실이 공개적으로 인정되지 
  스스로 슬픔을 줄여 말하는 것도 해당하나? | 연구진은 타인이 인정하지 않는 것뿐 아니라 스스로 슬퍼하도록 허락하지 않는 경우도 함께 살폈다.
 sources: Cesur-Soysal G, Arı E(2024). How We Disenfranchise Grief for Self and Other: An Empirical Study. Omega 89(2):530-549 (온라인 공개 2022) | https://doi.org/10.1177/00302228221075203
  Doka KJ 편(1989). Disenfranchised Grief. Lexington Books |
+date: 2026-10-31
+publish: yes
 ---
 반려동물을 떠나보낸 슬픔은 사회에서 어떻게 받아들여질까. 이 질문과 가까운 연구 한 편의 초록을 소개한다.
 

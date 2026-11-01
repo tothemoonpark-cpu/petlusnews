@@ -11,6 +11,8 @@ faq: 어떤 연구인가? | 오스트리아 빈 수의과대학교 연구진이 
  수의사들은 무엇을 말했나? | 죽음 앞의 두려움과 불확실함이 널리 퍼져 있다고 말했고, 죽어 가는 반려동물을 곁에서 돌보는 경험이 죽음을 돌아보게 하는 기회가 될 수 있다고 보았다.
  모든 수의사나 보호자의 생각인가? | 아니다. 면담에 응한 사람은 호스피스와 완화 돌봄을 전문으로 하는 수의사 20명이어서 일반 수의사나 보호자의 생각을 대표하지 않는다.
 sources: Springer S, Dürnberger C(2026). Beyond the taboo: a thanatosociological investigation of companion animal loss based on an interview study with small animal veterinarians. Frontiers in Veterinary Science 13:1719122 (온라인 공개 2026-01-30) | https://doi.org/10.3389/fvets.2026.1719122
+date: 2026-11-02
+publish: yes
 ---
 서구의 일부 현대 사회에서는 직접 죽음을 겪을 기회가 줄어 죽음이 금기가 되었다는 주장이 있다. 반려동물은 집에서 죽는 경우가 많다. 그렇다면 반려동물의 죽음은 이 금기에 어떤 의미를 가질까. 오스트리아 빈 수의과대학교 연구진이 2026년 학술지 프런티어스 인 베터리너리 사이언스(Frontiers in Veterinary Science)에 이 질문을 다룬 면담 연구를 냈다.
 

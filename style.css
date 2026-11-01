@@ -9,6 +9,7 @@
  --behavior:#C27A1E; /* 행동 */
  --life:#2F6FAD;     /* 생활 */
  --loss:#6F5FA6;     /* 펫로스 */
+ --nutrition:#A8483A; /* 영양 */
  --serif:"Gowun Batang",serif;
  --sans:"IBM Plex Sans KR",-apple-system,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
 }
@@ -29,7 +30,7 @@ a:focus-visible{outline:3px solid var(--life);outline-offset:2px}
 nav.sec{display:flex;justify-content:center;flex-wrap:wrap;gap:0;border-top:2px solid var(--ink);border-bottom:1px solid var(--rule);margin-top:22px}
 nav.sec a{text-decoration:none;font-weight:600;padding:12px 18px;border-bottom:3px solid transparent;margin-bottom:-1px}
 nav.sec a:hover{border-bottom-color:currentColor}
-nav.sec a.c-health{color:var(--health)} nav.sec a.c-behavior{color:var(--behavior)} nav.sec a.c-life{color:var(--life)} nav.sec a.c-loss{color:var(--loss)}
+nav.sec a.c-health{color:var(--health)} nav.sec a.c-behavior{color:var(--behavior)} nav.sec a.c-life{color:var(--life)} nav.sec a.c-loss{color:var(--loss)} nav.sec a.c-nutrition{color:var(--nutrition)}
 
 main{padding:36px 0 56px}
 
@@ -53,12 +54,12 @@ main{padding:36px 0 56px}
 /* 분야 */
 .desks{margin-top:56px;border-top:2px solid var(--ink);padding-top:22px}
 .desks>h3{font-family:var(--serif);font-size:1.4rem;margin:0 0 20px}
-.desk-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:28px}
+.desk-grid{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:24px}
 .desk{border-top:5px solid var(--c);padding-top:14px}
 .desk h4{margin:0 0 8px;font-size:1.12rem;color:var(--c)}
 .desk p{margin:0;font-size:.93rem;color:var(--ink2)}
 .desk ul{margin:10px 0 0;padding-left:1.1em;font-size:.93rem}
-.d-health{--c:var(--health)} .d-behavior{--c:var(--behavior)} .d-life{--c:var(--life)} .d-loss{--c:var(--loss)}
+.d-health{--c:var(--health)} .d-behavior{--c:var(--behavior)} .d-life{--c:var(--life)} .d-loss{--c:var(--loss)} .d-nutrition{--c:var(--nutrition)}
 
 /* 기사 목록(등록 후) */
 .list{list-style:none;padding:0;margin:0}
@@ -68,7 +69,7 @@ main{padding:36px 0 56px}
 .list .item p{margin:0;color:var(--ink2);font-size:.95rem}
 .list .sec{font-size:.82rem;font-weight:700}
 .list time{color:var(--ink2);font-size:.82rem;margin-left:8px}
-.s-건강{color:var(--health)} .s-행동{color:var(--behavior)} .s-생활{color:var(--life)} .s-펫로스{color:var(--loss)}
+.s-건강{color:var(--health)} .s-행동{color:var(--behavior)} .s-생활{color:var(--life)} .s-펫로스{color:var(--loss)} .s-영양{color:var(--nutrition)}
 
 /* 기사·문서 */
 .doc{max-width:720px;margin:0 auto}

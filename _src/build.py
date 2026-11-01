@@ -13,7 +13,7 @@ HEAD='''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="v
 <header><div class="wrap">
 <div class="dateline"><span id="today">반려동물과 함께 사는 날들, 그리고 이별 이후까지</span><span>제보·문의 <a href="mailto:tothemoon_park@naver.com">tothemoon_park@naver.com</a></span></div>
 <div class="mast"><a href="./"><p class="name">펫러스뉴스</p><p class="en">PETLUS NEWS</p></a><p class="motto">수의사가 만드는 반려동물·펫로스 전문 인터넷신문</p></div>
-<nav class="sec" aria-label="분야"><a class="c-health" href="./health.html">건강</a><a class="c-behavior" href="./behavior.html">행동</a><a class="c-life" href="./life.html">생활</a><a class="c-loss" href="./loss.html">펫로스</a><a href="about.html">매체 소개</a><a href="publisher.html">발행인</a></nav>
+<nav class="sec" aria-label="분야"><a class="c-health" href="./health.html">건강</a><a class="c-nutrition" href="./nutrition.html">영양</a><a class="c-behavior" href="./behavior.html">행동</a><a class="c-life" href="./life.html">생활</a><a class="c-loss" href="./loss.html">펫로스</a><a href="about.html">매체 소개</a><a href="publisher.html">발행인</a></nav>
 </div></header>
 <aside class="xband" aria-label="함께 보기"><div class="wrap"><p><b>펫로스로 마음이 힘드신가요?</b> 이름 없이 편지를 남기고 이야기를 나누는 <a href="https://tothemoonpark-cpu.github.io/pilacademy/petlus-shelter.html" target="_blank" rel="noopener">펫러스(PETLUS) 쉼터</a>가 있습니다. 발행인 박근필의 강연·집필은 <a href="https://tothemoonpark-cpu.github.io/pilacademy/" target="_blank" rel="noopener">박근필성장연구소</a>에서 만나실 수 있습니다.</p></div></aside>
 <main><div class="wrap">'''
@@ -65,6 +65,7 @@ pages['index.html']=('펫러스뉴스 PETLUS NEWS — 수의사가 만드는 반
 <h3 id="desks-h">펫러스뉴스가 다루는 분야</h3>
 <div class="desk-grid">
 <div class="desk d-health" id="d-health"><h4>건강</h4><p>몸이 보내는 신호를 읽는 법과 언제 병원에 가야 하는지를 수의학 근거로 전합니다.</p><ul><li>질병의 초기 신호</li><li>예방접종과 영양</li><li>나이 든 반려동물 돌보기</li></ul></div>
+<div class="desk d-nutrition" id="d-nutrition"><h4>영양</h4><p>먹여도 되는 것과 먹이면 안 되는 것, 얼마나 먹일지를 연구 근거로 정리합니다.</p><ul><li>위험한 음식과 성분</li><li>사료와 급여량</li><li>체중 관리</li></ul></div>
 <div class="desk d-behavior" id="d-behavior"><h4>행동</h4><p>짖음, 숨기, 물기 같은 행동 뒤의 이유를 풀어 씁니다.</p><ul><li>몸짓과 소리의 뜻</li><li>문제 행동 이해하기</li><li>함께 지내는 법</li></ul></div>
 <div class="desk d-life" id="d-life"><h4>생활</h4><p>입양부터 여행, 계절 안전, 바뀌는 제도까지 보호자에게 필요한 소식을 정리합니다.</p><ul><li>입양과 등록</li><li>계절별 안전</li><li>관련 제도와 산업 소식</li></ul></div>
 <div class="desk d-loss" id="d-loss"><h4>펫로스</h4><p>이별을 준비하는 법, 떠나보낸 뒤의 슬픔, 장례와 추모, 곁에 있는 사람이 할 수 있는 일을 다룹니다.</p><ul><li>이별 준비와 결정</li><li>슬픔과 회복</li><li>장례와 추모</li></ul></div>
@@ -235,7 +236,7 @@ open('robots.txt','w').write('User-agent: *\nAllow: /\nSitemap: https://petlusne
 open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>https://petlusnews.com/{p}</loc></url>' for p in ['','about.html','publisher.html','youth.html','privacy.html'])+'</urlset>\n')
 
 # ---------------- 기사 (articles/*.md) ----------------
-SECTIONS=['건강','행동','생활','펫로스']
+SECTIONS=['건강','영양','행동','생활','펫로스']
 def parse(fp):
     t=open(fp,encoding='utf-8').read()
     m=re.match(r'---\n(.*?)\n---\n(.*)',t,re.S); meta={}; key=None
@@ -273,7 +274,7 @@ for a in arts:
     ld={"@context":"https://schema.org","@type":"NewsArticle","headline":a['title'],"datePublished":a['date'],"dateModified":a.get('updated',a['date']),"author":{"@type":"Person","name":"박근필","jobTitle":"수의사","url":"https://tothemoonpark-cpu.github.io/pilacademy/author.html","sameAs":["https://litt.ly/tothemoonpark","https://tothemoonpark-cpu.github.io/pilacademy/"]},"publisher":{"@type":"NewsMediaOrganization","name":"펫러스뉴스","url":"https://petlusnews.com/","logo":{"@type":"ImageObject","url":"https://petlusnews.com/img/logo.png","width":600,"height":60},"publishingPrinciples":"https://petlusnews.com/about.html"},"image":"https://petlusnews.com/img/og.png","inLanguage":"ko-KR","keywords":a.get('keywords',''),"mainEntityOfPage":url,"articleSection":a['section'],"description":a['summary']}
     page=HEAD.format(title=a['title']+' — 펫러스뉴스',desc=a['summary'],path='news/'+slug+'.html').replace('href="style.css"','href="../style.css"').replace('href="./','href="../').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"')
     faqs=[(q.strip(),an.strip()) for q,_,an in (l.partition('|') for l in a.get('faq','').split('\n') if l.strip())]
-    lds=[ld,{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"펫러스뉴스","item":"https://petlusnews.com/"},{"@type":"ListItem","position":2,"name":a['section'],"item":"https://petlusnews.com/"+{'건강':'health','행동':'behavior','생활':'life','펫로스':'loss'}[a['section']]+".html"},{"@type":"ListItem","position":3,"name":a['title'],"item":url}]}]
+    lds=[ld,{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"펫러스뉴스","item":"https://petlusnews.com/"},{"@type":"ListItem","position":2,"name":a['section'],"item":"https://petlusnews.com/"+{'건강':'health','영양':'nutrition','행동':'behavior','생활':'life','펫로스':'loss'}[a['section']]+".html"},{"@type":"ListItem","position":3,"name":a['title'],"item":url}]}]
     if faqs: lds.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":an}} for q,an in faqs]})
     page=page.replace('<meta property="og:type" content="website">','<meta property="og:type" content="article"><meta property="article:published_time" content="'+a['date']+'"><meta property="article:section" content="'+a['section']+'"><meta name="keywords" content="'+html.escape(a.get('keywords',''))+'">')
     page=page.replace('</head>',''.join('<script type="application/ld+json">'+json.dumps(x,ensure_ascii=False)+'</script>' for x in lds)+'</head>',1)
@@ -291,9 +292,9 @@ if arts:
     lst=''.join(f'<li class="item"><span class="sec s-{a["section"]}">{html.escape(a["section"])}</span><a href="news/{a["slug"]}.html">{html.escape(a["title"])}</a><p>{html.escape(a["summary"])}</p><time>{a["date"]}</time></li>' for a in arts)
     secs=''.join(f'<section class="card" id="s-{s}"><h3>{s}</h3><ul>'+''.join(f'<li><a href="news/{a["slug"]}.html">{html.escape(a["title"])}</a></li>' for a in arts if a['section']==s)+'</ul></section>' for s in SECTIONS)
     idx=HEAD.format(title='펫러스뉴스 PETLUS NEWS — 반려동물·펫로스 전문 인터넷신문',desc='반려동물의 건강·행동·생활과 펫로스를 다루는 인터넷신문. 현직 수의사가 발행합니다.',path='')
-    idx=idx.replace('href="./#sections">건강','href="#s-건강">건강').replace('href="./#sections">행동','href="#s-행동">행동').replace('href="./#sections">생활','href="#s-생활">생활').replace('href="./#sections">펫로스','href="#s-펫로스">펫로스')
+    idx=idx.replace('href="./#sections">건강','href="#s-건강">건강').replace('href="./#sections">영양','href="#s-영양">영양').replace('href="./#sections">행동','href="#s-행동">행동').replace('href="./#sections">생활','href="#s-생활">생활').replace('href="./#sections">펫로스','href="#s-펫로스">펫로스')
     open('index.html','w',encoding='utf-8').write(idx+'<h2 class="latest">최신 기사</h2><ul class="list">'+lst+'</ul><div class="grid">'+secs+'</div>'+FOOT)
-    CATS=[('건강','health','몸이 보내는 신호를 읽는 법과 언제 병원에 가야 하는지를 수의학 근거로 전합니다.'),('행동','behavior','짖음, 숨기, 물기 같은 행동 뒤의 이유를 풀어 씁니다.'),('생활','life','입양부터 여행, 계절 안전, 바뀌는 제도까지 보호자에게 필요한 소식을 정리합니다.'),('펫로스','loss','이별을 준비하는 법, 떠나보낸 뒤의 슬픔, 장례와 추모, 곁에 있는 사람이 할 수 있는 일을 다룹니다.')]
+    CATS=[('건강','health','몸이 보내는 신호를 읽는 법과 언제 병원에 가야 하는지를 수의학 근거로 전합니다.'),('영양','nutrition','먹여도 되는 것과 먹이면 안 되는 것, 얼마나 먹일지를 연구 근거로 정리합니다.'),('행동','behavior','짖음, 숨기, 물기 같은 행동 뒤의 이유를 풀어 씁니다.'),('생활','life','입양부터 여행, 계절 안전, 바뀌는 제도까지 보호자에게 필요한 소식을 정리합니다.'),('펫로스','loss','이별을 준비하는 법, 떠나보낸 뒤의 슬픔, 장례와 추모, 곁에 있는 사람이 할 수 있는 일을 다룹니다.')]
     for sec,fn,desc in CATS:
         sa=[a for a in arts if a['section']==sec]
         lst2=''.join(f'<li class="item"><span class="sec s-{a["section"]}">{html.escape(a["section"])}</span><a href="news/{a["slug"]}.html">{html.escape(a["title"])}</a><p>{html.escape(a["summary"])}</p><time>{a["date"]}</time></li>' for a in sa)
@@ -304,7 +305,7 @@ if arts:
         open(fn+'.html','w',encoding='utf-8').write(pg+'<h2 class="latest">'+sec+' <span style="font-weight:400;font-size:.7em">기사 '+str(len(sa))+'편</span></h2><p class="lead">'+desc+'</p><ul class="list">'+lst2+'</ul>'+extra+'<p><a href="./">전체 기사 보기</a></p>'+FOOT)
     items=''.join(f'<item><title>{html.escape(a["title"])}</title><link>https://petlusnews.com/news/{a["slug"]}.html</link><description>{html.escape(a["summary"])}</description><pubDate>{a["date"]}</pubDate></item>' for a in arts[:30])
     open('feed.xml','w',encoding='utf-8').write(f'<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>펫러스뉴스</title><link>https://petlusnews.com/</link><description>반려동물·펫로스 전문 인터넷신문</description>{items}</channel></rss>')
-    urls=['','health.html','behavior.html','life.html','loss.html','about.html','publisher.html','youth.html','privacy.html']+['news/'+a['slug']+'.html' for a in arts]
+    urls=['','health.html','nutrition.html','behavior.html','life.html','loss.html','about.html','publisher.html','youth.html','privacy.html']+['news/'+a['slug']+'.html' for a in arts]
     open('sitemap.xml','w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>https://petlusnews.com/{p}</loc></url>' for p in urls)+'</urlset>\n')
 llm=["# 펫러스뉴스 (PETLUS NEWS)","","> 수의사 박근필이 발행하는 반려동물·펫로스 전문 인터넷신문. 반려동물의 건강·행동·생활과 펫로스(반려동물 상실 뒤의 슬픔)를 수의학 근거와 출처를 밝혀 다룬다.","","- 발행인·편집인: 박근필(수의사, 20년 가까이 동물병원 임상) — https://tothemoonpark-cpu.github.io/pilacademy/author.html","- 발행인 소개: https://petlusnews.com/publisher.html","- 편집 원칙: https://petlusnews.com/about.html","- 문의: tothemoon_park@naver.com",""]
 if arts: llm+=["## 기사",""]+[f"- [{a['title']}](https://petlusnews.com/news/{a['slug']}.html): {a['summary']}" for a in arts]

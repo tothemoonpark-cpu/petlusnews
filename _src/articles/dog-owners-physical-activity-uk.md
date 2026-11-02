@@ -11,6 +11,8 @@ faq: 개를 키우면 운동량이 늘어나나? | 이 영국 조사에서 개�
  개 산책이 다른 운동을 대신하나? | 이 연구에서는 개 산책 외의 다른 신체활동은 개를 키우는지에 따라 차이가 없었다. 연구진은 개 산책이 다른 운동을 대신하기보다 더해지는 활동으로 보인다고 해석했지만, 확정하려면 장기 추적 연구가 필요하다.
  아이들에게도 차이가 있었나? | 개와 함께 사는 아이들은 걷는 시간과 정해진 틀 없는 자유 활동 시간이 더 많다고 답했다. 다만 개와 사는 아이는 10명뿐이어서 해석에 주의가 필요하다.
 sources: Westgarth C, Christley RM, Jewell C, German AJ, Boddy LM, Christian HE(2019). Dog owners are more likely to meet physical activity guidelines than people without a dog: An investigation of the association between dog ownership and physical activity levels in a UK community. Scientific Reports 9:5704 | https://doi.org/10.1038/s41598-019-41254-6
+date: 2026-11-03
+publish: yes
 ---
 「개를 키우면 운동은 따로 안 해도 될까?」 반려견을 들이려는 사람이라면 한 번쯤 해 볼 법한 생각이다. 영국 리버풀대학교 등의 연구진이 한 소도시의 가구 구성원을 함께 조사해 개와 사는 생활과 신체활동의 관계를 살폈다. 결론부터 말하면, 개 산책은 큰 보탬이 되지만 개가 있다는 사실만으로 충분하지는 않았다.
 

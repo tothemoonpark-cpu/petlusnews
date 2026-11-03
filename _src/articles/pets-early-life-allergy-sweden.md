@@ -11,6 +11,8 @@ faq: 아기 때 개나 고양이와 함께 살면 알레르기가 줄어드나? 
  다섯 마리 이상 키운 집은 알레르기가 0%였다는데? | 설문 집단 1029명 가운데 생후 첫 1년에 개·고양이가 다섯 마리 이상이던 아이는 2명뿐이었다. 이 숫자보다는 마릿수가 늘수록 알레르기가 줄어드는 경향이 통계적으로 의미 있었다는 점이 연구의 요지다.
  미니 농장 효과란 무엇인가? | 개·고양이와 함께 사는 환경이 농장 환경처럼 아이의 면역 발달에 영향을 줘 알레르기를 줄일 수 있다는 연구진의 가설이다. 구체적인 작용 방식은 확인되지 않았다.
 sources: Hesselmar B, Hicke-Roberts A, Lundell AC, Adlerberth I, Rudin A, Saalman R, Wennergren G, Wold AE(2018). Pet-keeping in early life reduces the risk of allergy in a dose-dependent fashion. PLOS ONE 13(12):e0208472 | https://doi.org/10.1371/journal.pone.0208472
+date: 2026-11-04
+publish: yes
 ---
 출산을 앞둔 반려 가정이라면 한 번쯤 나올 법한 이야기가 있다. 「아기 생기면 고양이는 어떡해? 알레르기 생기는 거 아니야?」 스웨덴 예테보리대학교 연구진이 2018년 학술지 플로스 원(PLOS ONE)에 발표한 연구는 이 걱정과 반대 방향의 결과를 내놓았다. 보호자들이 실제로 궁금해할 질문 다섯 가지로 정리했다.
 

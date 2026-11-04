@@ -11,6 +11,8 @@ faq: 개를 키우면 오래 사나? | 이 메타분석에서 개를 키우는 �
  심장 질환을 겪은 사람에게도 차이가 있었나? | 이전에 관상동맥 사건(심근경색 등)을 겪은 사람에서는 개와 함께 사는 경우 모든 원인에 의한 사망의 상대위험이 65% 낮게 나타났다.
  심혈관 질환으로 인한 사망은 어땠나? | 심혈관 사망을 본 연구들만 묶었을 때 개를 키우는 사람의 상대위험이 31% 낮았다.
 sources: Kramer CK, Mehmood S, Suen RS(2019). Dog Ownership and Survival: A Systematic Review and Meta-Analysis. Circulation: Cardiovascular Quality and Outcomes 12(10):e005554 | https://doi.org/10.1161/CIRCOUTCOMES.119.005554
+date: 2026-11-05
+publish: yes
 ---
 개를 키우면 더 오래 살까. 이 질문을 다룬 연구 가운데 눈에 띄는 숫자가 「24%」다. 캐나다 토론토 마운트사이나이병원 연구진이 2019년 미국심장협회 학술지 서큘레이션 심혈관 질 및 결과(Circulation: Cardiovascular Quality and Outcomes)에 발표한 메타분석에서 나온 숫자다. 그런데 이 숫자를 「24% 더 오래 산다」로 옮기면 틀린 말이 된다. 무엇이 맞고 무엇이 틀린지 하나씩 짚어 본다.
 

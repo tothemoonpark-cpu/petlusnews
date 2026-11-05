@@ -11,7 +11,7 @@ HEAD='''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="v
 <script type="application/ld+json">{{"@context":"https://schema.org","@type":"NewsMediaOrganization","name":"펫러스뉴스","alternateName":"PETLUS NEWS","url":"https://petlusnews.com/","email":"tothemoon_park@naver.com","logo":{{"@type":"ImageObject","url":"https://petlusnews.com/img/logo.png","width":600,"height":60}},"image":"https://petlusnews.com/img/og.png","founder":{{"@type":"Person","name":"박근필","jobTitle":"수의사"}}}}</script>
 </head><body>
 <header><div class="wrap">
-<div class="dateline"><span id="today">반려동물과 함께 사는 날들, 그리고 이별 이후까지</span><span>제보·문의 <a href="mailto:tothemoon_park@naver.com">tothemoon_park@naver.com</a></span></div>
+<div class="dateline"><span id="today">반려동물과 함께 사는 날들, 그리고 이별 이후까지</span><span><a href="advertise.html">광고·제휴 문의</a> · 제보·문의 <a href="mailto:tothemoon_park@naver.com">tothemoon_park@naver.com</a></span></div>
 <div class="mast"><a href="./"><p class="name">펫러스뉴스</p><p class="en">PETLUS NEWS</p></a><p class="motto">수의사가 만드는 반려동물·펫로스 전문 인터넷신문</p></div>
 <nav class="sec" aria-label="분야"><a class="c-health" href="./health.html">건강</a><a class="c-nutrition" href="./nutrition.html">영양</a><a class="c-behavior" href="./behavior.html">행동</a><a class="c-life" href="./life.html">생활</a><a class="c-loss" href="./loss.html">펫로스</a><a href="about.html">매체 소개</a><a href="publisher.html">발행인</a></nav>
 </div></header>
@@ -172,7 +172,7 @@ pages['publisher.html']=('발행인 박근필 — 펫러스뉴스','펫러스뉴
 
 <h3>더 알아보기</h3>
 <ul class="links-out">
-<li><a href="https://tothemoonpark-cpu.github.io/pilacademy/author.html">박근필성장연구소 소장 소개</a></li>
+<li><a href="https://tothemoonpark-cpu.github.io/pilacademy/author.html">박근필성장연구소 대표 소개</a></li>
 <li><a href="https://tothemoonpark-cpu.github.io/pilacademy/books.html">저서 전체</a></li>
 <li><a href="https://blog.naver.com/tothemoon_park">네이버 블로그</a> · <a href="https://brunch.co.kr/@tothemoonpark">브런치</a> · <a href="https://www.youtube.com/@tothemoonpark">유튜브</a></li>
 <li><a href="https://www.instagram.com/tothemoon_park/">인스타그램</a> · <a href="https://www.threads.com/@tothemoon_park">스레드</a> · <a href="https://x.com/Tothemoon_Park">X</a> · <a href="https://litt.ly/tothemoonpark">리틀리</a></li>
@@ -272,7 +272,7 @@ for a in arts:
     slug=a['slug']; url=f'https://petlusnews.com/news/{slug}.html'
     src=''.join(f'<li><a href="{html.escape(u.strip())}" rel="nofollow noopener">{html.escape(n.strip())}</a></li>' if u.strip() else f'<li>{html.escape(n.strip())}</li>' for n,_,u in (l.partition('|') for l in a.get('sources','').split('\n') if l.strip()))
     ld={"@context":"https://schema.org","@type":"NewsArticle","headline":a['title'],"datePublished":a['date'],"dateModified":a.get('updated',a['date']),"author":{"@type":"Person","name":"박근필","jobTitle":"수의사","url":"https://tothemoonpark-cpu.github.io/pilacademy/author.html","sameAs":["https://litt.ly/tothemoonpark","https://tothemoonpark-cpu.github.io/pilacademy/"]},"publisher":{"@type":"NewsMediaOrganization","name":"펫러스뉴스","url":"https://petlusnews.com/","logo":{"@type":"ImageObject","url":"https://petlusnews.com/img/logo.png","width":600,"height":60},"publishingPrinciples":"https://petlusnews.com/about.html"},"image":"https://petlusnews.com/img/og.png","inLanguage":"ko-KR","keywords":a.get('keywords',''),"mainEntityOfPage":url,"articleSection":a['section'],"description":a['summary']}
-    page=HEAD.format(title=a['title']+' — 펫러스뉴스',desc=a['summary'],path='news/'+slug+'.html').replace('href="style.css"','href="../style.css"').replace('href="./','href="../').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"')
+    page=HEAD.format(title=a['title']+' — 펫러스뉴스',desc=a['summary'],path='news/'+slug+'.html').replace('href="style.css"','href="../style.css"').replace('href="./','href="../').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"').replace('href="advertise.html"','href="../advertise.html"')
     faqs=[(q.strip(),an.strip()) for q,_,an in (l.partition('|') for l in a.get('faq','').split('\n') if l.strip())]
     lds=[ld,{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"펫러스뉴스","item":"https://petlusnews.com/"},{"@type":"ListItem","position":2,"name":a['section'],"item":"https://petlusnews.com/"+{'건강':'health','영양':'nutrition','행동':'behavior','생활':'life','펫로스':'loss'}[a['section']]+".html"},{"@type":"ListItem","position":3,"name":a['title'],"item":url}]}]
     if faqs: lds.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":an}} for q,an in faqs]})

@@ -181,4 +181,28 @@ open(f'{OUT}/sitemap.xml','w',encoding='utf-8').write(sm)
 ll=open(f'{SRC}/llms.txt',encoding='utf-8').read()
 ll=ll if 'editorial.html' in ll else ll.replace('- 문의: tothemoon_park@naver.com','- 편집규약: https://petlusnews.com/editorial.html\n- 정정·반론보도: https://petlusnews.com/corrections.html\n- 제보·광고·제휴: https://petlusnews.com/contact.html\n- 이용약관·저작권: https://petlusnews.com/terms.html\n- 문의: tothemoon_park@naver.com')
 open(f'{OUT}/llms.txt','w',encoding='utf-8').write(ll)
+# --- SEO 후처리(2026-11-05): 페이지마다 h1 한 개, 짧은 meta description 보강 ---
+def _seo_fix(base):
+    import html as _h
+    SUF_ART=' 현직 수의사 박근필이 논문과 공식 자료로 사실을 대조해 쓴 펫러스뉴스 기사입니다.'
+    SUF_PG=' 수의사가 만드는 반려동물·펫로스 전문 인터넷신문 펫러스뉴스입니다.'
+    for fp in glob.glob(base+'/*.html')+glob.glob(base+'/news/*.html'):
+        rel=os.path.relpath(fp,base).replace(os.sep,'/')
+        if rel.startswith('google') or rel=='404.html': continue
+        h=open(fp,encoding='utf-8').read(); o=h
+        if rel=='index.html':
+            h=h.replace('<p class="name">펫러스뉴스</p>','<h1 class="name">펫러스뉴스</h1>',1)
+        else:
+            h=h.replace('<p class="name">펫러스뉴스</p>','<div class="name">펫러스뉴스</div>',1)
+            if '<h1' not in h:
+                m=re.search(r'<h2(?![^>]*class="latest")([^>]*)>(.*?)</h2>',h,re.S)
+                if not m: m=re.search(r'<h2([^>]*)>(.*?)</h2>',h,re.S)
+                if m: h=h[:m.start()]+'<h1'+m.group(1)+'>'+m.group(2)+'</h1>'+h[m.end():]
+        m=re.search(r'<meta name="description" content="([^"]*)">',h)
+        if m and len(_h.unescape(m.group(1)))<70:
+            d=m.group(1); n=d+(SUF_ART if rel.startswith('news/') else SUF_PG)
+            if len(_h.unescape(n))<70: n+=' 반려동물과 보호자를 위해 수의학 근거를 대조해 전합니다.'
+            h=h.replace('content="'+d+'"','content="'+n+'"')
+        if h!=o: open(fp,'w',encoding='utf-8').write(h)
+_seo_fix(OUT)
 print(sorted(os.listdir(OUT)))

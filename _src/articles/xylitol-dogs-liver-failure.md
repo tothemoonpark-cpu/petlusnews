@@ -11,6 +11,8 @@ faq: 개가 자일리톨을 먹으면 왜 위험한가? | 자일리톨은 개에
  자일리톨은 어디에 들어 있나? | 자일리톨은 감미료로 쓰이는 당알코올로, 연구진은 자일리톨이 든 소비자 제품이 늘고 있다고 지적했다. 집에 있는 제품의 성분표를 확인하는 것이 좋다.
  개가 자일리톨 든 제품을 먹었다면? | 이 보고처럼 생명을 위협하는 결과로 이어질 수 있으므로 증상이 없더라도 바로 동물병원에 연락하는 것이 안전하다.
 sources: Dunayer EK, Gwaltney-Brant SM(2006). Acute hepatic failure and coagulopathy associated with xylitol ingestion in eight dogs. Journal of the American Veterinary Medical Association 229(7):1113-1117 | https://doi.org/10.2460/javma.229.7.1113
+date: 2026-11-06
+publish: yes
 ---
 식탁 위에 둔 무설탕 껌 봉지가 바닥에 떨어져 있고, 개가 그 옆에서 입맛을 다시고 있다. 「설탕이 없으니 괜찮겠지」 하고 넘기면 안 된다. 무설탕 제품 가운데에는 자일리톨을 감미료로 쓴 것이 있기 때문이다.
 

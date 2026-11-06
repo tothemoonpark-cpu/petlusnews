@@ -11,6 +11,8 @@ faq: 개가 포도를 먹으면 왜 위험한가? | 포도와 건포도는 개�
  타르타르 크림과 타마린드도 위험한가? | 이 보고에서는 타마린드를 먹은 개 4마리와 타르타르 크림을 먹은 개 2마리에게 급성 신장 손상이 생겼고, 4마리가 안락사됐다.
  개가 포도를 먹었다면? | 이 보고의 사례들에서는 제독 처치가 이뤄지지 않았고 치료가 늦어졌다. 먹은 사실을 알았다면 바로 동물병원에 연락하는 것이 안전하다.
 sources: Wegenast CA, Meadows ID, Anderson RE, Southard T, González Barrientos CR, Wismer TA(2022). Acute kidney injury in dogs following ingestion of cream of tartar and tamarinds and the connection to tartaric acid as the proposed toxic principle in grapes and raisins. Journal of Veterinary Emergency and Critical Care 32(6):812-816 (온라인 공개 2022-07-23) | https://doi.org/10.1111/vec.13234
+date: 2026-11-07
+publish: yes
 ---
 식탁 아래에서 개가 건포도 한 알을 주워 먹었다. 「한 알인데 괜찮겠지」 싶지만, 포도와 건포도는 개에게 급성 신장 손상을 일으킬 수 있다고 알려져 있다. 그런데 「왜」 위험한지는 오랫동안 답이 없었다. 2022년 사례 보고가 그 실마리를 내놓았다.
 

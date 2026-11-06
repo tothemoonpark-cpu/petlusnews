@@ -120,10 +120,16 @@ footer .copy{margin-top:18px}
 .pub .faq dd{margin:6px 0 0;font-family:var(--serif);line-height:1.85}
 
 /* 2026-10-26 함께 보기 띠 — 펫러스 쉼터·연구소 연결 */
-.xband{background:#EEF3F8;border-bottom:1px solid #D7DFEA;font-family:var(--sans)}
-.xband p{margin:0;padding:11px 0;font-size:.9rem;line-height:1.7;color:var(--ink2)}
-.xband b{color:var(--ink)}
+.xband{background:#E4ECF6;border-top:1px solid #C9D6E8;border-bottom:1px solid #C9D6E8;font-family:var(--sans)}
+.xband .xin{display:flex;align-items:center;justify-content:space-between;gap:18px;padding-top:14px;padding-bottom:14px}
+.xband p{margin:0;font-size:1rem;line-height:1.65;color:var(--ink2)}
+.xband b{color:var(--ink);font-size:1.06rem}
+.xband .xsub{display:block;font-size:.86rem;margin-top:3px}
 .xband a{color:#15233D;font-weight:700;text-decoration:underline;text-underline-offset:3px}
+.xband a.xbtn{flex:none;background:#15233D;color:#fff;text-decoration:none;padding:10px 20px;border-radius:999px;font-size:.95rem;white-space:nowrap}
+.xband a.xbtn:hover{background:#26396A}
+.xfoot{margin-top:44px;border-bottom:0}
+@media(max-width:640px){.xband .xin{flex-direction:column;align-items:flex-start;gap:10px}.xband a.xbtn{align-self:stretch;text-align:center}}
 .lead h1{font-family:var(--serif);font-size:clamp(1.8rem,4.6vw,2.9rem);line-height:1.3;letter-spacing:-.02em;margin:6px 0 18px}
 .doc h1{font-family:var(--serif);font-size:clamp(1.6rem,4.4vw,2.3rem);line-height:1.35;margin:4px 0 14px}
 .mast div.name,.mast h1.name{font-family:var(--serif);font-weight:700;font-size:clamp(2.6rem,9vw,5.2rem);line-height:1;letter-spacing:-.04em;margin:0}

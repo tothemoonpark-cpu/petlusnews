@@ -15,9 +15,10 @@ HEAD='''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="v
 <div class="mast"><a href="./"><p class="name">펫러스뉴스</p><p class="en">PETLUS NEWS</p></a><p class="motto">수의사가 만드는 반려동물·펫로스 전문 인터넷신문</p></div>
 <nav class="sec" aria-label="분야"><a class="c-health" href="./health.html">건강</a><a class="c-nutrition" href="./nutrition.html">영양</a><a class="c-behavior" href="./behavior.html">행동</a><a class="c-life" href="./life.html">생활</a><a class="c-loss" href="./loss.html">펫로스</a><a href="about.html">매체 소개</a><a href="publisher.html">발행인</a></nav>
 </div></header>
-<aside class="xband" aria-label="함께 보기"><div class="wrap"><p><b>펫로스로 마음이 힘드신가요?</b> 이름 없이 편지를 남기고 이야기를 나누는 <a href="https://tothemoonpark-cpu.github.io/pilacademy/petlus-shelter.html" target="_blank" rel="noopener">펫러스(PETLUS) 쉼터</a>가 있습니다. 발행인 박근필의 강연·집필은 <a href="https://tothemoonpark-cpu.github.io/pilacademy/" target="_blank" rel="noopener">박근필성장연구소</a>에서 만나실 수 있습니다.</p></div></aside>
+<aside class="xband" aria-label="함께 보기"><div class="wrap xin"><p class="xmsg"><b>펫로스로 마음이 힘드신가요?</b> 이름 없이 편지를 남기고 이야기를 나누는 펫러스(PETLUS) 쉼터가 있습니다.<span class="xsub">발행인 박근필의 강연·집필은 <a href="https://tothemoonpark-cpu.github.io/pilacademy/" target="_blank" rel="noopener">박근필성장연구소</a>에서 만나실 수 있습니다.</span></p><a class="xbtn" href="https://tothemoonpark-cpu.github.io/pilacademy/petlus-shelter.html" target="_blank" rel="noopener">펫러스 쉼터 가기 →</a></div></aside>
 <main><div class="wrap">'''
-FOOT_T='''</div></main>
+FOOT_T='''<aside class="xband xfoot" aria-label="함께 보기 하단"><div class="wrap xin"><p class="xmsg"><b>펫로스로 마음이 힘드신가요?</b> 이름 없이 편지를 남기고 이야기를 나누는 펫러스(PETLUS) 쉼터가 있습니다.<span class="xsub">발행인 박근필의 강연·집필은 <a href="https://tothemoonpark-cpu.github.io/pilacademy/" target="_blank" rel="noopener">박근필성장연구소</a>에서 만나실 수 있습니다.</span></p><a class="xbtn" href="https://tothemoonpark-cpu.github.io/pilacademy/petlus-shelter.html" target="_blank" rel="noopener">펫러스 쉼터 가기 →</a></div></aside>
+</div></main>
 <footer><div class="wrap">
 <p class="fn">펫러스뉴스</p>
 <div class="links"><a href="about.html">매체 소개</a><a href="publisher.html">발행인 소개</a><a href="youth.html">청소년보호정책</a><a href="privacy.html">개인정보처리방침</a></div>

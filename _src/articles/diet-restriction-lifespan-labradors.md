@@ -11,6 +11,8 @@ faq: 개에게 적게 먹이면 더 오래 사나? | 래브라도 48마리를 �
  몇 살부터 적게 먹였나? | 생후 8주부터 죽을 때까지 짝이 된 개보다 25% 적게 먹였다.
  우리 개도 사료를 25% 줄이면 되나? | 이 연구는 래브라도 리트리버를 대상으로 한 결과다. 개마다 필요한 양이 다르므로 급여량 조절은 체형을 평가한 뒤 수의사와 상의하는 것이 좋다.
 sources: Kealy RD, Lawler DF, Ballam JM, Mantz SL, Biery DN, Greeley EH, Lust G, Segre M, Smith GK, Stowe HD(2002). Effects of diet restriction on life span and age-related changes in dogs. Journal of the American Veterinary Medical Association 220(9):1315-1320 | https://doi.org/10.2460/javma.2002.220.1315
+date: 2026-11-08
+publish: yes
 ---
 간식을 조르는 눈빛 앞에서 한 번 더 손이 가는 보호자가 많다. 평생 먹는 양의 차이가 개의 건강과 수명에 어떤 영향을 주는지 일생 전체를 따라가며 본 연구가 있다.
 

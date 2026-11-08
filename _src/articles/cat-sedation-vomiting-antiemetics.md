@@ -11,6 +11,8 @@ faq: 진정제를 맞은 고양이가 토하는 건 흔한 일인가? | 논문�
  세 가지 구토 억제제 중 어느 것이 가장 나은가? | 이 연구에서는 마로피턴트·온단세트론·메토클로프라미드 사이에 통계적으로 의미 있는 차이가 나타나지 않았다. 연구는 부작용과 비용을 비교하지 않았다. 어떤 약을 쓸지는 수의사와 상의한다.
  구토 억제제를 맞으면 메스꺼움도 사라지나? | 토한 고양이는 줄었다. 하지만 메스꺼움 신호로 보는 침 흘림과 입술 핥기는 식염수 무리와 통계적으로 의미 있는 차이가 없었다. 식염수 무리에서는 16마리 중 14마리가 침을 흘렸고, 14마리가 입술을 핥았다.
 sources: Gölgeli Bedir A, Yanmaz LE, Okur S, Şenocak MG, Turgut F, Kocaman Y, Orhun ÖT, Ersöz U, Baykal B(2025). The Effect of Maropitant, Ondansetron and Metoclopramide on Dexmedetomidine-Induced Vomiting in Cats. Veterinary Medicine and Science 11(1):e70152 | https://doi.org/10.1002/vms3.70152
+date: 2026-11-09
+publish: yes
 ---
 고양이 중성화 수술을 앞두고 동물병원에서 「진정제를 맞으면 토할 수 있다」는 설명을 듣는 보호자가 있다. 수술 전에 토해도 괜찮은지, 미리 줄일 방법은 있는지 궁금해진다.
 

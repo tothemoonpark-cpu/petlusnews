@@ -11,6 +11,8 @@ faq: 강아지 설사에 예전에 남은 항생제를 먹여도 되나? | 논�
  보호자들은 항생제를 얼마나 임의로 썼나? | 이탈리아 보호자 250명 설문에서 지난 1년 동안 먹는 항생제를 먹인 111명 가운데 21%(23명)가 수의사와 상의 없이 먹였다고 답했다. 17.1%(19명)는 처방 기간을 채우기 전에 약을 끊었다. 스스로 답한 설문이어서 실제보다 적게 답했을 수 있다.
  개 설사에 영양 보충제가 항생제를 대신할 수 있나? | 이 연구는 그 질문에 답하지 않는다. 「부작용 없이 회복을 도울 수 있다면」이라는 전제를 주고 물었을 때 응답자의 92%가 받아들이겠다고 답했을 뿐이다. 보충제의 효과를 시험한 연구가 아니므로 치료 방법은 수의사와 상의한다.
 sources: Candellone A, Badino P, Girolami F, Ala U, Mina F, Odore R(2023). Dog Owners' Attitude toward Veterinary Antibiotic Use and Antibiotic Resistance with a Focus on Canine Diarrhea Management. Animals 13(6):1061 | https://doi.org/10.3390/ani13061061
+date: 2026-11-10
+publish: yes
 ---
 반려견이 갑자기 설사를 하면 보호자는 마음이 급해진다. 약 상자를 열어 보니 지난번 병원에서 받아 온 항생제가 몇 알 남아 있다. 「이거라도 먹이면 낫지 않을까」 하는 생각이 든다. 보호자라면 한 번쯤 떠올릴 만한 생각이다.
 

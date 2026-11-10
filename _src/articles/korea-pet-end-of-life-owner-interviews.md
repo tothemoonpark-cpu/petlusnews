@@ -11,6 +11,8 @@ faq: 마지막 시기 돌봄은 슬픔과 스트레스뿐인가? | 연구진은 
  보호자는 수의사를 어떻게 경험했나? | 연구진은 수의사가 임상 지식을 전하는 사람에 그치지 않고 이 과정의 윤리적 동반자로 나타났다고 정리했다.
  이 결과를 모든 보호자에게 적용할 수 있나? | 한국 보호자 24명의 면담이라 모든 보호자에게 그대로 해당한다고 말할 수 없다.
 sources: Joo S, Chun MS(2026). Moving through pets' end of life: South Korean pet owners' experiences and implications for veterinary practices. BMC Vet Res 22(1):328 (온라인 공개 2026-04-22) | https://doi.org/10.1186/s12917-026-05486-9
+date: 2026-11-11
+publish: yes
 ---
 밤마다 나이 든 반려동물의 숨소리를 확인하고, 약 시간을 맞추고, 병원 일정을 챙기는 날이 이어진다. 힘들다는 말로는 다 담기지 않는 시간이다. 그 시간을 지나온 한국 보호자들의 이야기를 들은 연구가 있다.
 

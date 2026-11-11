@@ -53,6 +53,24 @@ have_today=[]
 for fp in glob.glob(os.path.join(ARTS,'*.md')):
     meta,_,_=fm(fp)
     if meta and meta.get('date')==TODAY and meta.get('publish','').lower()=='yes': have_today.append(os.path.basename(fp))
+# ⭐ 섹션별 균형 검사(2026-11-12 작가님 지시: 건강·행동·생활·영양·펫로스 각 섹션 매일 1편)
+SECTIONS=['건강','행동','생활','영양','펫로스']
+_sec_today=set()
+for _a in have_today:
+    _m,_,_=fm(os.path.join(ARTS,_a)); _sec_today.add((_m.get('section','') or '').strip())
+_miss=[x for x in SECTIONS if x not in _sec_today]
+if have_today and _miss: warns.append('오늘(%s) %s 섹션 기사가 없음 — 5개 섹션 매일 1편 규칙 위반'%(TODAY,'·'.join(_miss)))
+_d0=datetime.date.fromisoformat(TODAY)
+for _k in (1,2,3):
+    _day=(_d0+datetime.timedelta(days=_k)).isoformat(); _have=set()
+    for _fp in glob.glob(os.path.join(QUEUE,'*.md')):
+        _m,_,_=fm(_fp)
+        if _m and _m.get('publish_date')==_day and _m.get('reviewed','').lower()=='yes': _have.add((_m.get('section','') or '').strip())
+    _mm=[x for x in SECTIONS if x not in _have]
+    if _mm:
+        _msg='%s 게재 예정분에 %s 섹션 기사가 큐에 없음'%(_day,'·'.join(_mm))
+        if _k==1: warns.append('⚠ 내일 '+_msg)
+        else: say('⚠ '+_msg)
 if not have_today: problems.append('오늘(%s) 날짜 기사가 없음 — 큐(_queue)에 검수 통과 기사가 없거나 게재일이 맞지 않음'%TODAY)
 left=len(glob.glob(os.path.join(QUEUE,'*.md')))
 say('오늘 기사 %d건 %s · 큐 남은 기사 %d건'%(len(have_today),have_today,left))

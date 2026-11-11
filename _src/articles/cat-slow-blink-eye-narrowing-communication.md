@@ -11,6 +11,8 @@ faq: 고양이의 슬로 블링크는 무엇인가? | 반쯤 깜빡이는 동작
  보호자가 천천히 눈을 깜빡이면 고양이는 어떻게 했나? | 첫 번째 실험에서 고양이의 반깜빡임과 눈 가늘게 뜨기가 보호자와 상호작용이 없을 때보다 더 자주 나타났다.
  낯선 사람이 깜빡여도 효과가 있었나? | 두 번째 실험에서 실험자가 천천히 깜빡인 뒤에는 무표정으로 있을 때보다 고양이가 실험자에게 더 잘 다가가는 경향을 보였다.
 sources: Humphrey T, Proops L, Forman J, Spooner R, McComb K(2020). The role of cat eye narrowing movements in cat-human communication. Scientific Reports 10(1):16503 | https://doi.org/10.1038/s41598-020-73426-0
+date: 2026-11-12
+publish: yes
 ---
 소파 위에서 고양이와 눈이 마주친다. 고양이가 천천히 눈을 깜빡인다. 널리 알려진 고양이의 행동이다. 이 동작에 어떤 뜻이 있는지, 사람이 따라 해도 되는지 영국 연구진이 실험으로 살펴봤다.
 

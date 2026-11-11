@@ -11,6 +11,8 @@ faq: 이 연구는 무엇을 시험했나? | 알록달록한 목걸이 덮개(Bi
  얼마나 줄었나? | 덮개로 집에 가져온 새는 37% 줄어든 것으로 추정됐고(감소 확률 88%), 포유류는 방울을 함께 달았을 때만 54~62% 줄었다(감소 확률 99% 초과).
  고양이가 불편해하지는 않았나? | 대부분의 보호자는 고양이가 덮개에 빨리 익숙해졌다고 답했지만, 일부 고양이가 자주 긁어 모든 고양이가 익숙해지는 것은 아닐 수 있다고 연구진은 밝혔다.
 sources: Geiger M, Kistler C, Mattmann P, Jenni L, Hegglin D, Bontadina F(2022). Colorful Collar-Covers and Bells Reduce Wildlife Predation by Domestic Cats in a Continental European Setting. Frontiers in Ecology and Evolution 10:850442 | https://doi.org/10.3389/fevo.2022.850442
+date: 2026-11-12
+publish: yes
 ---
 저녁에 들어온 고양이가 문 앞에 작은 새를 내려놓는다. 놀랐지만 고양이를 탓할 수는 없다. 스위스 연구진이 고양이가 집에 가져오는 먹이를 줄일 수 있는 상품을 보호자 26가구와 함께 시험했다.
 

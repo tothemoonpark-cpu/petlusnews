@@ -11,6 +11,8 @@ faq: 단두종 폐쇄성 기도 증후군(BOAS)이란? | 얼굴뼈가 짧아진 
  주둥이 길이와 BOAS의 관계는? | 두개골 길이에 견준 주둥이가 짧아질수록 BOAS 위험이 비선형으로 급격히 커졌고, 이 연구에서 BOAS는 주둥이가 두개골 길이의 절반보다 짧은 개에서만 나타났다.
  다른 위험 요인은? | 목둘레가 굵으면 위험이 커졌고, 비만은 BOAS 위험을 더 키웠다.
 sources: Packer RMA, Hendricks A, Tivers MS, Burn CC(2015). Impact of Facial Conformation on Canine Health: Brachycephalic Obstructive Airway Syndrome. PLoS ONE 10(10):e0137496 | https://doi.org/10.1371/journal.pone.0137496
+date: 2026-11-12
+publish: yes
 ---
 코와 입이 납작한 개가 숨을 쉴 때마다 쌕쌕거리는 소리를 낸다. 귀엽다고 넘기기 쉬운 장면이다. 영국 연구진은 두개골 길이에 견준 주둥이가 짧을수록 호흡기 증후군 위험이 얼마나 커지는지 숫자로 확인했다.
 

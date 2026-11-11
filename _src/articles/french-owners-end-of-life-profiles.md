@@ -11,6 +11,8 @@ faq: 마지막 시기를 보호자는 어떻게 겪었나? | 302명 가운데 56
  세 집단은 어떻게 달랐나? | 첫 집단은 죄책감이 크고 지지가 더 필요했다. 둘째 집단은 정보를 잘 알고 독립적이어서 수의사의 도움이 유익하며 안내 책자가 어울렸다. 셋째 집단은 통증 평가에 능숙해 수의사의 도움이 상대적으로 덜 필요했다.
  EPITO 체계란? | 연구진이 수의사와 동물간호 인력 교육의 기둥으로 제안한 이름으로, 정서적 지지, 개별화, 정보, 교육, 도구, 열린 대화의 머리글자다.
 sources: Hoummady S, Chaise L, Guillot M, Rebout N(2025). All pet owners are not the same: End-of-Life caregiver expectations and profiles. Top Companion Anim Med 65:100960 | https://doi.org/10.1016/j.tcam.2025.100960
+date: 2026-11-12
+publish: yes
 ---
 보호자마다 반려동물의 마지막 시기를 겪는 모습은 다르다. 어떤 보호자는 정보가 더 필요하고, 어떤 보호자는 죄책감 때문에 곁의 지지가 더 필요하다. 프랑스 연구진이 이 차이를 설문으로 살펴봤다.
 

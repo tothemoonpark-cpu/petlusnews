@@ -11,6 +11,8 @@ faq: 이 연구에서 무엇을 검사했나? | 네덜란드에서 판매되는 
  가장 많이 검출된 것은? | 확장형 베타락타마제(ESBL)를 만드는 대장균이 28개(80%)에서 나왔고, 리스테리아균(Listeria monocytogenes)은 19개(54%), 대장균 O157:H7은 8개(23%), 살모넬라는 7개(20%)에서 나왔다.
  이 결과로 생고기 사료를 먹은 개와 고양이가 실제로 아프다고 말할 수 있나? | 아니다. 이 연구는 제품에 병원체가 있는지를 검사했을 뿐이고, 실제로 병에 걸린 동물이나 사람의 수는 다루지 않았다.
 sources: van Bree FPJ, Bokken GCAM, Mineur R, Franssen F, Opsteegh M, van der Giessen JWB, Lipman LJA, Overgaauw PAM(2018). Zoonotic bacteria and parasites found in raw meat-based diets for cats and dogs. Veterinary Record 182(2):50 | https://doi.org/10.1136/vr.104535
+date: 2026-11-12
+publish: yes
 ---
 냉동실에서 꺼낸 생고기 사료 봉지를 뜯어 그릇에 담는다. 신선한 재료를 준다는 생각에 마음이 놓이지만, 그 봉지 안에 무엇이 들어 있는지는 눈으로 알 수 없다.
 

@@ -11,6 +11,8 @@ faq: 고양이는 어떤 상자와 모래를 더 썼나? | 일본 고양이 카�
  집에서 무엇을 해 볼 수 있나? | 먼저 동물병원에서 진료를 받는다. 병이 아니라고 판단되면 상자 가로 길이를 재 보고, 큰 상자나 다른 모래를 담은 상자를 하나 더 놓아 고양이가 어느 쪽을 쓰는지 며칠 지켜볼 수 있다.
  화장실만 바꾸면 배설 문제가 해결되나? | 그렇게 말할 수는 없다. 병원 검사로 환경이 주된 원인이라고 판단된 고양이만 다뤘고, 상자와 모래를 함께 바꿔 어느 쪽 효과인지 나눠 볼 수 없다. 배설 문제는 질병 때문일 수 있어 먼저 동물병원 진료가 필요하다.
 sources: Iwabuchi-Inoue Y, Hattori Y, Kikusui T(2025). Litter box size and litter type preference and their associated behavioral changes in cats. J Vet Med Sci 87(6):614-620 | https://doi.org/10.1292/jvms.24-0468 | https://pubmed.ncbi.nlm.nih.gov/40204471/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12169895/
+date: 2026-11-13
+publish: yes
 ---
 고양이가 화장실 밖에 소변이나 대변을 보면 일부러 그런 것인지 고민하게 된다. 상자와 모래를 바꿔 주면 나아질까 싶은 마음도 든다.
 

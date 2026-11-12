@@ -16,6 +16,8 @@ sources: Sauder T, Ricard M, Loewen J, Cowan V(2026). A retrospective case serie
  AAHA. Cold Weather Pet Safety Tips for Dogs and Cats (2026-02-04 갱신본) | https://www.aaha.org/resources/cold-safety-for-pets/
  AVMA. Cold Weather Hazards | https://www.avma.org/sites/default/files/resources/ColdWeatherSafety.pdf
  Cornell University College of Veterinary Medicine, Riney Canine Health Center. Winter safety tips | https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/winter-safety-tips
+date: 2026-11-13
+publish: yes
 ---
 주차한 자리 바닥에 액체가 고여 있고, 산책 나온 개가 다가가 핥으려 한다. 차에서 샌 부동액일 수 있다.
 

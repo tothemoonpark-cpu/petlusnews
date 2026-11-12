@@ -12,6 +12,8 @@ faq: 개와 고양이 간식은 하루 얼마까지 줄 수 있나? | WSAVA 안�
  개와 고양이에게 피해야 할 사람 음식은 무엇인가? | 개용 안내문은 초콜릿, 마카다미아, 양파·리크·샬롯·마늘·차이브, 포도·건포도, 자일리톨, 알코올과 날 이스트 반죽, 카페인 음료를 독성 음식으로 꼽았다. 고양이용 안내문은 마카다미아를 뺀 같은 목록에 우유와 유제품을 더했다.
 sources: WSAVA Global Nutrition Committee(2025). Feeding treats to your dog. World Small Animal Veterinary Association | https://wsava.org/wp-content/uploads/2025/11/WSAVA_GuidetoTreats_Dogs_251107.pdf
  WSAVA Global Nutrition Committee(2025). Feeding treats to your cat. World Small Animal Veterinary Association | https://wsava.org/wp-content/uploads/2025/11/WSAVA_GuidetoTreats_Cats_251107.pdf
+date: 2026-11-13
+publish: yes
 ---
 훈련이 끝난 개가 간식 주머니만 쳐다본다. 식사를 마친 고양이가 식탁 앞을 떠나지 않는다. 한 조각쯤이야 하고 건네기 쉬운데, 그 한 조각이 몇 kcal인지 아는 보호자는 많지 않다.
 

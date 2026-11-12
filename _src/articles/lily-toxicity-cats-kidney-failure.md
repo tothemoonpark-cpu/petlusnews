@@ -13,6 +13,8 @@ faq: 고양이에게 어떤 백합이 위험한가? | 백합속(Lilium)과 원�
  먹었는지 모르겠으면 어떻게 하나? | 2010년 당시 백합 섭취를 분석으로 확인하는 검사는 없었다고 한다. 신장 손상 여부는 병원의 혈액·소변 검사로 평가한다. 먹었을 가능성이 있다면 증상을 기다리지 말고 병원에 연락해 식물 이름과 노출 상황을 알린다.
  치료하면 나을 수 있나? | 소변이 나오지 않는 신부전이 오기 전에 수액 치료를 시작하면 예후가 매우 좋다고 정리돼 있다. 다만 모든 고양이의 회복을 보장한다는 뜻은 아니다. 소변이 멈춘 뒤에는 복막 투석이나 혈액 투석이 유일한 치료 가능성이다.
 sources: Fitzgerald KT(2010, 미국). Lily toxicity in the cat. Top Companion Anim Med 25(4):213-217. PMID 21147474 | https://doi.org/10.1053/j.tcam.2010.09.006 | https://pubmed.ncbi.nlm.nih.gov/21147474/ ; Rumbeiha WK, Francis JA, Fitzgerald SD, Nair MG, Holan K, Bugyei KA, Simmons H(2004, 미국). A comprehensive study of Easter lily poisoning in cats. J Vet Diagn Invest 16(6):527-541. PMID 15586568 | https://doi.org/10.1177/104063870401600607 | https://pubmed.ncbi.nlm.nih.gov/15586568/
+date: 2026-11-13
+publish: yes
 ---
 선물 받은 꽃다발을 식탁에 올려 두니 집이 환해졌다. 그런데 그 안에 백합이 섞여 있다면, 고양이가 사는 집에서는 한 번 더 살펴야 한다.
 

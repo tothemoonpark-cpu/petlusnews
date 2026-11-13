@@ -15,6 +15,8 @@ sources: WSAVA Global Nutrition Committee(2025). Body Condition Score, Dogs. Wor
  Salt C, Morris PJ, Wilson D, Lund EM, German AJ(2019). Association between life span and body condition in neutered client-owned dogs. J Vet Intern Med 33(1):89-99 | https://doi.org/10.1111/jvim.15367
  Teng KT, McGreevy PD, Toribio JL, Raubenheimer D, Kendall K, Dhand NK(2018). Strong associations of nine-point body condition scoring with survival and lifespan in cats. J Feline Med Surg 20(12):1110-1118 | https://doi.org/10.1177/1098612X17752198
  WSAVA Nutritional Assessment Guidelines Task Force Members(2011). WSAVA Nutritional Assessment Guidelines. J Small Anim Pract 52(7):385-396 | https://doi.org/10.1111/j.1748-5827.2011.01079.x
+date: 2026-11-14
+publish: yes
 ---
 체중계 숫자는 지난달과 같은데 수의사가 살이 조금 쪘다고 한다.
 같은 몸무게라도 지방과 근육의 비율은 다를 수 있다. 그래서 수의사는 몸무게와 함께 체형 점수를 본다.

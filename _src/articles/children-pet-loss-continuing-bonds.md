@@ -11,6 +11,8 @@ faq: 자녀가 반려동물을 잃으면 슬픔을 어떻게 다루나? | 미국
  어린이마다 슬픔을 다루는 방식이 같았나? | 아니다. 모든 어린이가 지속적 유대를 썼지만, 표현 방식은 나이, 반려동물을 잃은 뒤의 슬픔 정도, 반려동물에 대한 애착의 강도에 따라 달랐다.
  반려동물의 죽음이 자녀의 정신 건강을 해친다는 뜻인가? | 아니다. 위의 자료는 그런 비교를 하지 않았다. 영국에서 어린이를 오래 따라간 자료는 7세까지 반려동물을 잃은 어린이의 8세 때 어머니가 답한 정서·행동 어려움 점수가 잃지 않은 어린이보다 높다고 보고했지만, 관찰 자료여서 원인을 단정할 수 없다.
 sources: Schmidt M, Naylor PE, Cohen D, Gomez R, Moses JA, Rappoport M, Packman W(2020). Pet loss and continuing bonds in children and adolescents. Death Stud 44(5):278-284 | https://doi.org/10.1080/07481187.2018.1541942 | Crawford KM, Zhu Y, Davis KA, Ernst S, Jacobsson K, Nishimi K, Smith ADAC, Dunn EC(2021). The mental health effects of pet death during childhood: is it better to have loved and lost than never to have loved at all? Eur Child Adolesc Psychiatry 30(10):1547-1558 | https://doi.org/10.1007/s00787-020-01594-5
+date: 2026-11-14
+publish: yes
 ---
 자녀가 키우던 아이가 세상을 떠났다.
 학교에 다녀온 자녀가 빈 방석을 한참 바라보고 있다. 부모는 어떤 말을 해야 할지, 그냥 두어도 되는지 고민하게 된다.

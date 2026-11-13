@@ -15,6 +15,8 @@ sources: Kennedy CR, Babyak JM, Rozanski EA(2021). The accuracy of tactile asses
  AAHA. Cold Weather Pet Safety Tips for Dogs and Cats (2026-02-04 갱신본) | https://www.aaha.org/resources/cold-safety-for-pets/
  AVMA. Cold Weather Hazards | https://www.avma.org/sites/default/files/resources/ColdWeatherSafety.pdf
  Cornell University College of Veterinary Medicine, Riney Canine Health Center. Winter safety tips | https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/winter-safety-tips
+date: 2026-11-14
+publish: yes
 ---
 기온이 영하로 내려간 아침, 산책하던 개가 걸음을 멈추고 몸을 떤다.
 보호자는 개의 코를 만져 본다. 코가 차가우면 추워서 그렇다고 생각하기 쉽다.

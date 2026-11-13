@@ -11,6 +11,8 @@ faq: 어떤 점이 혼자 있을 때의 문제 행동과 이어졌나? | 영국�
  어떤 점이 문제 행동이 적은 쪽과 이어졌나? | 생후 열여섯 주 이하에 밤새 상자나 방 같은 구획된 곳에서 지낸 강아지, 밤잠을 아홉 시간 이상 잔 강아지는 6개월 때 분리 관련 행동이 나타날 가능성이 낮았다.
  이 방법을 따르면 분리불안을 막을 수 있나? | 그렇게 말할 수는 없다. 보호자가 직접 답한 내용을 바탕으로 한 관련성이고 강아지 수도 적어서, 방법의 효과를 확인하는 추가 시험이 더 필요하다고 밝혔다.
 sources: Dale FC, Burn CC, Murray JK, Casey RA(2024). Canine separation-related behaviour at six months of age: Dog, owner and early-life risk factors identified using the 'Generation Pup' longitudinal study. Anim Welf 33:e60 | https://doi.org/10.1017/awf.2024.56 | https://pubmed.ncbi.nlm.nih.gov/39703219/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC11655275/
+date: 2026-11-14
+publish: yes
 ---
 집을 비운 사이 강아지가 짖고 서성이고 물건을 망가뜨렸다면 보호자는 마음이 무겁다.
 혼자 있는 시간 전에 우리가 바꿔 볼 만한 일이 있는지 궁금해진다.

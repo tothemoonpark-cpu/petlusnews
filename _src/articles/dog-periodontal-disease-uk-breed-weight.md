@@ -12,6 +12,8 @@ faq: 개의 치주 질환은 얼마나 흔한가? | 영국의 일차 진료 동�
  우리 개도 해당되나? | 영국 개의 기록이라 한국 개에게 같은 결과가 나온다고 말할 수 없다. 우리 개의 치아와 잇몸 상태는 수의사에게 직접 확인받아야 한다.
  집에서 할 수 있는 일은 무엇인가? | 정기 검진 때 수의사에게 입 안을 봐 달라고 요청하고, 우리 개에게 맞는 치아 관리 방법을 묻는다. 집에서 하는 관리 방법의 효과는 이 내용에서 다루지 않았다.
 sources: O'Neill DG, Mitchell CE, Humphrey J, Church DB, Brodbelt DC, Pegram C(2021, 영국). Epidemiology of periodontal disease in dogs in the UK primary-care veterinary setting. J Small Anim Pract 62(12):1051-1061. PMID 34374104 | https://doi.org/10.1111/jsap.13405 | https://pubmed.ncbi.nlm.nih.gov/34374104/ ; O'Neill DG, James H, Brodbelt DC, Church DB, Pegram C(2021, 영국). Prevalence of commonly diagnosed disorders in UK dogs under primary veterinary care: results and applications. BMC Vet Res 17:69. PMID 33593363 | https://doi.org/10.1186/s12917-021-02775-3 | https://pubmed.ncbi.nlm.nih.gov/33593363/
+date: 2026-11-14
+publish: yes
 ---
 우리 개의 이를 수의사에게 마지막으로 보여 준 때가 언제인지 떠올려 본다.
 진료 때 입 안을 자세히 보지 않으면 기록에도 남지 않는다.

@@ -12,6 +12,8 @@ faq: 고양이 통증 얼굴 척도는 무엇인가? | 귀 위치, 눈 가늘어
  보호자가 집에서 점수를 매겨도 되나? | 이 척도는 병원 케이지에서 촬영한 사진을 훈련된 평가자가 점수 매긴 방식이다. 보호자가 집에서 매긴 점수가 정확한지는 알 수 없다. 얼굴이 평소와 다르면 점수를 매기기보다 병원에 연락한다.
  얼굴이 괜찮아 보이면 아프지 않은 건가? | 그렇게 말할 수 없다. 이 척도는 급성 통증을 가늠하도록 만들어졌고, 오래 이어지는 통증은 다루지 않았다. 식욕과 움직임이 달라졌다면 얼굴과 상관없이 병원에 알린다.
 sources: Evangelista MC, Watanabe R, Leung VSY, Monteiro BP, O'Toole E, Pang DSJ, Steagall PV(2019, 캐나다). Facial expressions of pain in cats: the development and validation of a Feline Grimace Scale. Sci Rep 9:19128. PMID 31836868 | https://doi.org/10.1038/s41598-019-55693-8 | https://pubmed.ncbi.nlm.nih.gov/31836868/ ; Evangelista MC, Benito J, Monteiro BP, Watanabe R, Doodnaught GM, Pang DSJ, Steagall PV(2020, 캐나다). Clinical applicability of the Feline Grimace Scale: real-time versus image scoring and the influence of sedation and surgery. PeerJ 8:e8967. PMID 32322445 | https://doi.org/10.7717/peerj.8967 | https://pubmed.ncbi.nlm.nih.gov/32322445/ ; Jones RD, Baynes RE, Nimitz CT(1992, 미국). Nonsteroidal anti-inflammatory drug toxicosis in dogs and cats: 240 cases (1989-1990). J Am Vet Med Assoc 201(3):475-477. PMID 1506258 | https://pubmed.ncbi.nlm.nih.gov/1506258/
+date: 2026-11-15
+publish: yes
 ---
 고양이가 평소와 다르게 구석에서 웅크려 있다. 그런데 어디가 아픈지 말해 주지 않으니 알기 어렵다.
 

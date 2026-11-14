@@ -16,6 +16,8 @@ sources: ASPCA(2026-01-22). Is It Safe to Use De-Icers Around Your Dog? | https:
  Cornell University College of Veterinary Medicine, Riney Canine Health Center. Winter safety tips | https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-topics/winter-safety-tips
  AAHA. Cold Weather Pet Safety Tips for Dogs and Cats (2026-02-04 갱신본) | https://www.aaha.org/resources/cold-safety-for-pets/
  뉴스서울(2025-11-27). 농식품부, 반려동물과 함께 따뜻한 겨울나기 (농림축산식품부 안내를 전한 보도) | https://newsseoul.co.kr/news/view/1065586817825877
+date: 2026-11-15
+publish: yes
 ---
 눈이 내린 길을 걷고 온 개가 현관에서 발을 핥는다. 길에 뿌린 제설제가 발에 묻었을 수 있다.
 

@@ -11,6 +11,8 @@ faq: 산책 도구는 어떤 것을 비교했나? | 평 목줄, 하네스, 마�
  줄을 당기는 개에게는 어떤 도구가 나은가? | 훈련과 함께 조이지 않는 앞 고리 하네스를 먼저 고려하라고 했다. 조이는 하네스, 마틴게일 목줄, 헤드칼라는 더 불편할 수 있어 마지막 수단으로 보라고 했다.
  단두종 개는 목줄을 써도 되나? | 단두종 개에게는 평 목줄을 쓰지 말라고 했다. 단두종 개나 줄을 당기지 않는 개에게는 뒤 고리 하네스, 그중 가슴끈형이나 Y자형이 알맞다고 했다.
 sources: Cavalli C, Protopopova A(2025). Review of Collars, Harnesses, and Head Collars for Walking Dogs. Animals (Basel) 15(15):2162 | https://doi.org/10.3390/ani15152162 | https://pubmed.ncbi.nlm.nih.gov/40804952/ | https://pmc.ncbi.nlm.nih.gov/articles/PMC12345489/
+date: 2026-11-15
+publish: yes
 ---
 산책 때 개가 줄을 세게 당기면 어떤 도구를 써야 할지 고민하게 된다. 목줄, 하네스, 헤드칼라 가운데 무엇이 나은지 헷갈린다.
 

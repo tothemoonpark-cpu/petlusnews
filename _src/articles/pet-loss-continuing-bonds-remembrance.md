@@ -11,6 +11,8 @@ faq: 떠난 반려동물을 계속 기억해도 괜찮은가? | 미국에서 반
  추모가 슬픔을 줄여 주나? | 영국에서 나온 문헌 종합은 연결 방식에 따라 슬픔의 강도를 낮추는 도움이 될 수도, 특히 슬픔을 인정받지 못한다고 느낄 때는 슬픔을 키울 수도 있다고 정리했다. 결과는 서로 달랐다.
  몇 가지 방식으로 추모해야 하나? | 방식의 가짓수보다 그 연결이 마음에 맞게 이어지는지가 중요할 수 있다는 의견이 있었다. 사별을 겪는 사람마다 경험이 다르다는 점도 강조했다.
 sources: Packman W, Carmack BJ, Ronen R(2012). Therapeutic implications of continuing bonds expressions following the death of a pet. Omega (Westport) 64(4):335-356 | https://doi.org/10.2190/om.64.4.d | Hughes B, Lewis Harkin B(2025). The Impact of Continuing Bonds Between Pet Owners and Their Pets Following the Death of Their Pet: A Systematic Narrative Synthesis. Omega (Westport) 90(4):1666-1684 | https://doi.org/10.1177/00302228221125955
+date: 2026-11-15
+publish: yes
 ---
 반려동물이 떠난 뒤 사진첩을 열면 마음이 무너진다. 그때마다 "이제 그만 잊어야 하나" 고민하는 보호자가 있다.
 

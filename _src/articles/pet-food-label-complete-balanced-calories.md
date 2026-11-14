@@ -15,6 +15,8 @@ sources: WSAVA Global Nutrition Committee(2021). Guidelines on Selecting Pet Foo
  WSAVA Global Nutrition Committee. Interpreting Food Labels, EU. World Small Animal Veterinary Association | https://wsava.org/wp-content/uploads/2020/01/Nutrition-Label-EU-16_9.pdf
  WSAVA Global Nutrition Committee. Global Nutrition Guidelines(웹페이지, 「Nutrition on the Internet」 안내) | https://wsava.org/global-guidelines/global-nutrition-guidelines/
  AAFCO. How to Understand a Dog or Cat Food Label(2026-11-12 열람) | https://www.aafco.org/consumers/understanding-pet-food/reading-labels/
+date: 2026-11-15
+publish: yes
 ---
 사료 봉지 앞면에는 「프리미엄」이나 「홀리스틱」 같은 말이 크게 적혀 있다. 이런 말과 원재료 목록만 보고 사료를 고르기 쉽다. 이 글은 개 사료와 고양이 사료 모두에 해당한다.
 

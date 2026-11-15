@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://petlusnews.com/sitemap.xml
+
+#DaumWebMasterTool:9a89b4a08dd1bccad60f81ebed021d05818daac0ae5ed822b45fd7210df87b56:CNSJIIGOISrSV2aL3hPlgQ==

@@ -23,4 +23,4 @@ Allow: /
 
 Sitemap: https://petlusnews.com/sitemap.xml
 
-#DaumWebMasterTool:9a89b4a08dd1bccad60f81ebed021d05818daac0ae5ed822b45fd7210df87b56:CNSJIIGOISrSV2aL3hPlgQ==
+#DaumWebMasterTool:a2ce9b0a8c8f510e82ebc7a1688fb06b139138c16c3653514ba835c7a47829f8:CNSJIIGOISrSV2aL3hPlgQ==

@@ -11,6 +11,8 @@ faq: 안락사 뒤에도 병원의 역할이 있나? | 수의사의 역할로 �
  수의사가 상담자 역할을 대신하나? | 수의사는 상담자는 아니지만, 보호자가 외부의 지원 자료에 닿도록 길을 열고 직원이 공감하며 소통하도록 교육하면 도움이 될 수 있다고 정리돼 있다.
  병원의 후속 지원이 효과가 있다고 확인된 건가? | 북미 수의 임상(Vet Clin North Am Small Anim Pract)에 실린 정리글이다. 이 글은 초록만 확인했고, 구체적인 후속 방법이나 효과를 검증한 자료는 확인하지 못했다.
 sources: Frank RK(2026). Post-euthanasia: How to Provide Continued Support. Vet Clin North Am Small Anim Pract 56(2):535-543 | https://doi.org/10.1016/j.cvsm.2025.10.003
+date: 2026-11-16
+publish: yes
 ---
 반려동물이 안락사로 세상을 떠난 뒤, 병원 문을 나서는 보호자는 빈 이동가방이나 목줄을 들고 있을 수 있다. 병원과의 관계는 그날로 끝나는 걸까.
 

@@ -13,6 +13,8 @@ faq: 개나 고양이에게 날고기를 먹여도 되나? | 미국수의사회(
 sources: Reboul G, Malkowski AC, Yu YT, et al.(2025). Analysis of the microbiota of raw commercial feline diets to prioritize food safety investigations. Communications Biology 8:1349 | https://doi.org/10.1038/s42003-025-08756-8
  Reboul G, et al.(2025). 같은 논문, PubMed Central 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12460818
  AVMA. Raw or undercooked animal-source protein in cat and dog diets(정책 문서, 2026-11-12 열람) | https://www.avma.org/policies/raw-or-undercooked-animal-source-protein-cat-and-dog-diets
+date: 2026-11-16
+publish: yes
 ---
 생식 사료가 몸에 좋다는 이야기를 듣고 시도해 볼까 고민하는 보호자가 있다. 그런데 날것 재료는 만드는 과정에서 세균이 남을 수 있다.
 

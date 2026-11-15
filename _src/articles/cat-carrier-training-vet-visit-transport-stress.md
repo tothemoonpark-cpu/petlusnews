@@ -13,6 +13,8 @@ faq: 고양이 이동장은 병원 가기 직전에 꺼내면 되나? | 직전�
 sources: Pratsch L, Mohr N, Palme R, Rost J, Troxler J, Arhant C(2018). Carrier training cats reduces stress on transport to a veterinary practice. Applied Animal Behaviour Science 206:64-74 | https://doi.org/10.1016/j.applanim.2018.05.025
  Rodan I, Sundahl E, Carney H, Gagnon AC, Heath S, Landsberg G, Seksel K, Yin S(2011). AAFP and ISFM Feline-Friendly Handling Guidelines. J Feline Med Surg 13(5):364-375 (전문가 지침이며 연구가 아님) | https://pmc.ncbi.nlm.nih.gov/articles/PMC11107994
  AAHA. Helping your cat cope with veterinary visits (게시일 표시 없음, 안내문) | https://www.aaha.org/resources/helping-your-cat-cope-with-veterinary-visits/
+date: 2026-11-16
+publish: yes
 ---
 병원에 가려고 이동장을 꺼내자 고양이가 어디론가 숨어 버릴 때가 있다. 그날 이동장을 처음 본 것처럼 반응하는 고양이도 있다.
 

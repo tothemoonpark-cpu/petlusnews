@@ -14,6 +14,8 @@ faq: 고양이는 건사료를 먹으면 물을 더 많이 마시나? | 건강�
 sources: van Diggelen RA, Gillies GJJ, Shoveller AK, Banton S, Kosmal PAL(2026). Water intake and consumption behaviour of colony and privately-owned healthy domestic cats fed 100% dry, 50% dry and 50% wet, and 100% wet diets: A comparison of research and home environments. J Anim Sci (skag201) | https://doi.org/10.1093/jas/skag201
  O'Halloran C, Cerna P, Barnicoat R, Caney SMA, Gunn-Moore DA(2024). How and why pet cats are fed the way they are: a self-reported owner survey. J Feline Med Surg 26(2):1098612X231209894 | https://doi.org/10.1177/1098612X231209894 | https://pubmed.ncbi.nlm.nih.gov/38381461/
  Massey University(2026-09-09). How hydrated is your cat? New study investigates feline feeding habits | https://www.massey.ac.nz/about/news/how-hydrated-is-your-cat-new-study-investigates-feline-feeding-habits/
+date: 2026-11-16
+publish: yes
 ---
 물그릇의 물이 좀처럼 줄지 않아 걱정될 때가 있다. 사료를 바꾼 뒤라면 더 신경 쓰이기 쉽다.
 

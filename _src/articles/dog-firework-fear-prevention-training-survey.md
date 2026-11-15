@@ -13,6 +13,8 @@ faq: 개가 불꽃놀이를 무서워하는 일은 흔한가? | 스위스 베른
 sources: Riemer S(2019). Not a one-way road—Severity, progression and prevention of firework fears in dogs. PLoS ONE 14(9):e0218150 | https://doi.org/10.1371/journal.pone.0218150
  Riemer S(2019). 같은 논문, PubMed | https://pubmed.ncbi.nlm.nih.gov/31490926/
  Riemer S(2019). 같은 논문, PubMed Central 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC6730926/
+date: 2026-11-16
+publish: yes
 ---
 연말이 다가오면 불꽃놀이 소리에 떨고 숨고 짖는 개 때문에 마음이 무거운 보호자가 있다. 이 글은 개 이야기만 다룬다.
 

@@ -1,4 +1,4 @@
-import os,re,json,html,glob
+import os,re,json,html,glob,datetime
 REG=json.load(open('site.json',encoding='utf-8'))
 HEAD='''<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title}</title><meta name="description" content="{desc}">
@@ -275,6 +275,24 @@ def VETNOTE(a):
     n=(a.get('note') or '').strip()
     if not n: return ''
     return '\n<aside class="vetnote" style="margin:1.6em 0;padding:1em 1.2em;border-left:4px solid #2f6f6b;background:#f3f8f7;border-radius:4px"><p style="margin:0 0 .4em;font-weight:700;font-size:.9em;color:#2f6f6b">박근필 수의사의 한 줄</p><p style="margin:0">'+html.escape(n)+'</p></aside>'
+# ---- 협력 캠페인 박스(KiPFRi, 2026-11-16 회신 합의: 기사 1건·30일·요청 시 즉시 중단) ----
+# 기사 머리말에 「coop_box: kipfri 시작일 종료일」이 있고 오늘(한국)이 그 기간 안일 때만 기사 끝에 넣는다.
+# 즉시 중단: 머리말의 coop_box 줄을 지우고 다시 게재(빌드)하면 박스가 사라진다. 기간이 지나면 다음 빌드에서 저절로 빠진다.
+def _today_kst():
+    t=(os.environ.get('PN_TODAY') or '').strip()
+    return t or (datetime.datetime.utcnow()+datetime.timedelta(hours=9)).strftime('%Y-%m-%d')
+KIPFRI_BOX='''<aside class="coop-box" aria-label="협력 캠페인" style="margin:2em 0 0">
+<a href="https://kipfri.com/pledge/partner/petlus" rel="noopener" style="display:block;max-width:720px;margin:0 auto;text-decoration:none" aria-label="협력 캠페인 KiPFRi. 함께 사는 마음을, 우리 아이와의 약속으로. 서약은 무료입니다. 미리 작성하고 로그인 후 이어갈 수 있어요. 이름 일부와 아이 사진이 검색에 노출될 수 있습니다. 연락처·주소·이메일은 공개되지 않습니다. 후원이나 구매를 요청하지 않습니다. 평생서약 남기기.">
+  <picture>
+    <source media="(max-width:599px)" srcset="/img/kipfri/petlus-box-mobile.png">
+    <img src="/img/kipfri/petlus-box-desktop.png" alt="협력 캠페인 KiPFRi. 함께 사는 마음을, 우리 아이와의 약속으로. 서약은 무료입니다. 미리 작성하고 로그인 후 이어갈 수 있어요. 이름 일부와 아이 사진이 검색에 노출될 수 있습니다. 연락처·주소·이메일은 공개되지 않습니다. 후원이나 구매를 요청하지 않습니다. 평생서약 남기기." width="1440" height="1108" style="display:block;width:100%;height:auto;border:0">
+  </picture>
+</a>
+</aside>'''
+def COOPBOX(a):
+    sp=(a.get('coop_box') or '').split()
+    if len(sp)!=3 or sp[0]!='kipfri': return ''
+    return KIPFRI_BOX if sp[1]<=_today_kst()<=sp[2] else ''
 CARE='<p class="care">마음이 많이 힘드실 때는 혼자 견디지 않으셔도 됩니다. 사랑의전화복지재단 상담센터 1566-2525(펫로스 상담), 자살예방상담전화 109, 정신건강위기상담 1577-0199(야간·공휴일에는 광역정신건강복지센터로 연결)에 전화하실 수 있습니다.</p>'
 for a in arts:
     slug=a['slug']; url=f'https://petlusnews.com/news/{slug}.html'
@@ -293,7 +311,7 @@ for a in arts:
 {('<h3>자주 묻는 질문</h3>'+''.join('<p><strong>'+html.escape(q)+'</strong><br>'+html.escape(an)+'</p>' for q,an in faqs)) if faqs else ''}
 {CARE if a['section']=='펫로스' else ''}
 {('<h3>참고 자료</h3><ul class="src">'+src+'</ul>') if src else ''}
-<p class="fix">기사에 잘못된 내용이 있으면 tothemoon_park@naver.com 으로 알려 주세요. 확인 즉시 고치고 고친 사실을 밝힙니다.</p></article>'''
+<p class="fix">기사에 잘못된 내용이 있으면 tothemoon_park@naver.com 으로 알려 주세요. 확인 즉시 고치고 고친 사실을 밝힙니다.</p>{COOPBOX(a)}</article>'''
     foot=FOOT.replace('href="publisher.html"','href="../publisher.html"').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"').replace('href="youth.html"','href="../youth.html"').replace('href="privacy.html"','href="../privacy.html"')
     open(f'news/{slug}.html','w',encoding='utf-8').write(page+body+foot)
 if arts:

@@ -100,7 +100,7 @@ PAGES={
 <h3>기사 수와 발행 주기</h3>
 <p>매일 1건 발행을 원칙으로 합니다.</p>
 <p>모든 기사는 게재 전에 인용한 숫자, 출처, 연도, 연구 대상을 원문과 대조하고, 교차 검수를 거칩니다.</p>
-<p>누적 기사 수: 11건(2026년 10월 29일 기준)</p>
+<p>누적 기사 수: {{ARTICLE_COUNT}}건({{ARTICLE_DATE}} 기준)</p>
 
 <h3>방문 통계</h3>
 <p>월 방문자 수: 집계 후 공개</p>
@@ -141,6 +141,10 @@ def mk(fn,title,desc,body):
     h=h.replace('https://petlusnews.com/about.html',f'https://petlusnews.com/{fn}')
     h=re.sub(r'<meta property="og:title" content="[^"]*">',f'<meta property="og:title" content="{title} — 펫러스뉴스">',h)
     h=re.sub(r'<meta property="og:description" content="[^"]*">',f'<meta property="og:description" content="{desc}">',h)
+    import datetime as _dt
+    _n=len(glob.glob(f'{SRC}/news/*.html'))
+    _k=_dt.datetime.now(_dt.timezone(_dt.timedelta(hours=9)))
+    body=body.replace('{{ARTICLE_COUNT}}',str(_n)).replace('{{ARTICLE_DATE}}',f'{_k.year}년 {_k.month}월 {_k.day}일')
     return h+'<article class="doc">'+body+'</article>'+foot
 os.makedirs(OUT,exist_ok=True)
 for fn,(t,d,b) in PAGES.items():

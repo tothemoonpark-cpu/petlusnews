@@ -264,6 +264,13 @@ if REG.get('registered'):
         arts.append(a)
 arts.sort(key=lambda a:a['date'],reverse=True)
 os.makedirs('news',exist_ok=True)
+def METADESC(t,n=155):
+    t=t.strip()
+    if len(t)<=n: return t
+    cut=t[:n]
+    k=max(cut.rfind('. '),cut.rfind('다. '))
+    if k>=70: return cut[:k+1].strip()
+    return cut[:cut.rfind(' ')].rstrip(' ,')+'…'
 def VETNOTE(a):
     n=(a.get('note') or '').strip()
     if not n: return ''
@@ -273,7 +280,7 @@ for a in arts:
     slug=a['slug']; url=f'https://petlusnews.com/news/{slug}.html'
     src=''.join(f'<li><a href="{html.escape(u.strip())}" rel="nofollow noopener">{html.escape(n.strip())}</a></li>' if u.strip() else f'<li>{html.escape(n.strip())}</li>' for n,_,u in (l.partition('|') for l in a.get('sources','').split('\n') if l.strip()))
     ld={"@context":"https://schema.org","@type":"NewsArticle","headline":a['title'],"datePublished":a['date'],"dateModified":a.get('updated',a['date']),"author":{"@type":"Person","name":"박근필","jobTitle":"수의사","url":"https://tothemoonpark-cpu.github.io/pilacademy/author.html","sameAs":["https://litt.ly/tothemoonpark","https://tothemoonpark-cpu.github.io/pilacademy/"]},"publisher":{"@type":"NewsMediaOrganization","name":"펫러스뉴스","url":"https://petlusnews.com/","logo":{"@type":"ImageObject","url":"https://petlusnews.com/img/logo.png","width":600,"height":60},"publishingPrinciples":"https://petlusnews.com/about.html"},"image":"https://petlusnews.com/img/og.png","inLanguage":"ko-KR","keywords":a.get('keywords',''),"mainEntityOfPage":url,"articleSection":a['section'],"description":a['summary']}
-    page=HEAD.format(title=a['title']+' — 펫러스뉴스',desc=a['summary'],path='news/'+slug+'.html').replace('href="style.css"','href="../style.css"').replace('href="./','href="../').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"').replace('href="advertise.html"','href="../advertise.html"')
+    page=HEAD.format(title=a['title']+' — 펫러스뉴스',desc=html.escape(METADESC(a['summary']),quote=True),path='news/'+slug+'.html').replace('href="style.css"','href="../style.css"').replace('href="./','href="../').replace('href="about.html"','href="../about.html"').replace('href="publisher.html"','href="../publisher.html"').replace('href="advertise.html"','href="../advertise.html"')
     faqs=[(q.strip(),an.strip()) for q,_,an in (l.partition('|') for l in a.get('faq','').split('\n') if l.strip())]
     lds=[ld,{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"펫러스뉴스","item":"https://petlusnews.com/"},{"@type":"ListItem","position":2,"name":a['section'],"item":"https://petlusnews.com/"+{'건강':'health','영양':'nutrition','행동':'behavior','생활':'life','펫로스':'loss'}[a['section']]+".html"},{"@type":"ListItem","position":3,"name":a['title'],"item":url}]}]
     if faqs: lds.append({"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":q,"acceptedAnswer":{"@type":"Answer","text":an}} for q,an in faqs]})

@@ -12,6 +12,8 @@ faq: 겨울에는 개 산책을 줄여도 되나? | 보호자들은 추운 날�
  개 스포츠를 하면 겨울에도 활동량이 유지되나? | 개 스포츠에 참여하는 개는 보호자가 보고한 겨울 날씨의 영향 점수가 더 낮았다. 다만 참여해서 달라졌는지, 원래 활동적인 보호자가 참여한 것인지는 가릴 수 없다.
 sources: Hall EJ, Carter AJ, Farnworth MJ(2021). Exploring owner perceptions of the impacts of seasonal weather variations on canine activity and potential consequences for human–canine relationships. Animals 11(11):3302 | https://doi.org/10.3390/ani11113302
  Hall EJ, et al.(2021). 같은 논문, PubMed Central 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC8614552/
+date: 2026-11-17
+publish: yes
 ---
 날씨가 추워지면 산책 나가기가 쉽지 않다. 보호자도 움직이기 싫고, 길이 얼면 걱정이 앞선다.
 

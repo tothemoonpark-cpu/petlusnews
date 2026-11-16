@@ -13,6 +13,8 @@ faq: 반려동물이 죽은 뒤 오래 힘든 것도 병인가? | 질문지 결�
 sources: Hyland P(2026). No pets allowed: Evidence that prolonged grief disorder can occur following the death of a pet. PLOS ONE 21(1):e0339213 | https://doi.org/10.1371/journal.pone.0339213
  Hyland P(2026). 같은 논문, PubMed Central 전문 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12803462/
  Maynooth University Research Archive(2026). 같은 논문 초록 | https://mural.maynoothuniversity.ie/id/eprint/21354/
+date: 2026-11-17
+publish: yes
 ---
 반려동물을 떠나보내고 몇 달이 지났다. 그런데도 문득 눈물이 난다. "이제 괜찮아져야 하는데" 하고 스스로를 재촉하는 보호자가 있다.
 

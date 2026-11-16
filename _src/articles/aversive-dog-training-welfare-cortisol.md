@@ -11,6 +11,8 @@ faq: 혐오 자극을 많이 쓰는 학교의 개는 어땠나? | 보상 중심 
  훈련소를 고를 때 무엇을 먼저 물어보나? | 어떤 방식으로 가르치는지 먼저 묻는다. 보상을 주로 쓰는지, 불쾌한 자극을 쓰는지 확인하면 된다. 행동 문제가 심하면 수의사와 먼저 상의한다.
  훈련 밖에서도 차이가 있었나? | 모호한 상황을 받아들이는 과제에서 혐오 자극을 많이 쓰는 학교의 개는 보상 중심 학교의 개보다 더 비관적이었다. 다만 훈련 방식이 원인이라고 단정하기는 어렵다.
 sources: Vieira de Castro AC, Fuchs D, Morello GM, Pastur S, de Sousa L, Olsson IAS(2020). Does training method matter? Evidence for the negative impact of aversive-based methods on companion dog welfare. PLoS ONE 15(12):e0225023 | https://doi.org/10.1371/journal.pone.0225023
+date: 2026-11-17
+publish: yes
 ---
 훈련 수업이 끝난 뒤 개가 입맛을 다시고 하품을 한다. 지쳐서 그런 것처럼 보이지만, 스트레스 신호일 수도 있다.
 

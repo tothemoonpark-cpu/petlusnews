@@ -13,6 +13,8 @@ faq: 건강해 보이는 노령 고양이도 검진이 필요한가? | 보호자
 sources: Herrera K, Nichelason A, Snyder Z, Hetzel S, McLellan GJ, Crawford LK, Cameron S(2026). Clinically important abnormalities are common in senior cats perceived to be healthy by owners. J Am Vet Med Assoc, 온라인 선공개 2026-07-29 | https://doi.org/10.2460/javma.26.04.0326
  Herrera K, et al.(2026). 같은 논문, PubMed(PMID 42526494) | https://pubmed.ncbi.nlm.nih.gov/42526494/
  Mortier F, Daminet S, Marynissen S, Smets P, Paepe D(2024). Value of repeated health screening in 259 apparently healthy mature adult and senior cats followed for 2 years. J Vet Intern Med 38(4):2089-2098 | https://doi.org/10.1111/jvim.17138
+date: 2026-11-17
+publish: yes
 ---
 고양이는 아파도 티를 잘 내지 않는다고 한다. 밥도 잘 먹고 잘 지내는 나이 든 고양이라면 건강하다고 느끼기 쉽다.
 

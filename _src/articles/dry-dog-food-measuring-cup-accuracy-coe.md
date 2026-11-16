@@ -13,6 +13,8 @@ faq: 사료를 컵으로 재도 괜찮나? | 컵으로 담은 양이 기준 무�
 sources: Coe JB, Rankovic A, Edwards TR, Parr JM(2019). Dog owner's accuracy measuring different volumes of dry dog food using three different measuring devices. Veterinary Record 185(19):599 | https://doi.org/10.1136/vr.105319
  Coe JB, et al.(2019). 같은 논문, PubMed 초록 | https://pubmed.ncbi.nlm.nih.gov/31409751/
  University of Guelph(2019). Dog owners often inaccurately measure out kibble, study finds | https://news.uoguelph.ca/2019/10/dog-owners-often-inaccurately-measure-out-kibble-study-finds
+date: 2026-11-17
+publish: yes
 ---
 사료 봉지 뒤에는 하루 급여량이 컵이나 그램으로 적혀 있다. 보호자 대부분은 컵으로 퍼서 준다. 이 글은 개의 건사료만 다룬다.
 

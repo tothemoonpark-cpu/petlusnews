@@ -12,6 +12,8 @@ faq: 개 양치는 매일 해야 하나? | 치태를 줄이는 가장 좋은 방
  우리 개 입냄새가 심하면 어떻게 하나? | 입냄새는 다루지 않았다. 입냄새나 잇몸 출혈이 있으면 집에서 해결하려 하지 말고 수의사에게 진료를 받는다.
 sources: Enlund KB, Jönsson B, Abrahamsson KH, Pettersson A(2024). Long-term effects of motivational interviewing vs. traditional counseling on dog owners' adherence to veterinary dental home care: a three-year follow-up study. Frontiers in Veterinary Science 11:1296618 | https://doi.org/10.3389/fvets.2024.1296618
  Enlund KB, et al.(2024). 같은 논문, PubMed Central 전문 | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11002956/
+date: 2026-11-18
+publish: yes
 ---
 개의 입 냄새나 치석은 나이가 들면 으레 생기는 일로 여기기 쉽다. 하지만 잇몸 염증인 치주 질환은 개에게 매우 흔하다. 이 글은 개만 다룬다.
 

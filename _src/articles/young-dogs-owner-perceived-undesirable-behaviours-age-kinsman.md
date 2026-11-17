@@ -12,6 +12,8 @@ faq: 강아지가 1년쯤 되면 말을 더 안 듣나? | 보호자가 바람직
  문제행동이 있으면 훈련사나 수의사에게 가야 하나? | 진단이나 치료를 평가한 자료는 아니다. 어린 개에게 나타날 수 있는 행동과 훈련·행동 상담을 구할 곳을 보호자에게 알려 줄 필요가 있다고 설명했다.
 sources: Kinsman RH, Casey RA, Tasker S, Cooper B, Giragosian K, Harvey ND, Owczarczak-Garstecka SC, Samet L, Murray JK(2025). Owner-Perceived Undesirable Behaviours in Young Dogs and Changes with Age. Animals 15(8):1163 | https://doi.org/10.3390/ani15081163
  Kinsman RH, et al.(2025). 같은 논문, PMC 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC12024356
+date: 2026-11-18
+publish: yes
 ---
 어린 개를 키우다 보면 짖기, 줄 당기기, 불러도 오지 않기가 한꺼번에 느껴질 때가 있다. 이 글은 개만 다룬다.
 

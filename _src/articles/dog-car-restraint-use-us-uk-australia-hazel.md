@@ -12,6 +12,8 @@ faq: 개를 차에서 꼭 고정해야 하나? | 고정 장치의 사고 안전�
  짧은 거리라서 괜찮지 않나? | 운전 거리에 따른 안전성을 따져 본 자료가 아니고, 거리가 짧을 때 안전하다는 근거도 없다. 개와 함께 운전하는 빈도는 항상 고정하는지와 뚜렷한 관련이 없었다.
 sources: Hazel SJ, Kogan LR, Montrose VT, Hebart ML, Oxley JA(2019). Restraint of dogs in vehicles in the US, UK and Australia. Preventive Veterinary Medicine 170:104714 | https://doi.org/10.1016/j.prevetmed.2019.104714
  Hazel SJ, et al.(2019). 같은 논문, PubMed 초록 | https://pubmed.ncbi.nlm.nih.gov/31421492/
+date: 2026-11-18
+publish: yes
 ---
 개와 드라이브를 나서면서 고정 장치를 챙길까 말까 망설일 때가 있다. 이 글은 개만 다룬다.
 

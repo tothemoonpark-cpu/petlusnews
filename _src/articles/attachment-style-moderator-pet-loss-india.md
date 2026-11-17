@@ -11,6 +11,8 @@ faq: 애착 유형은 유대와 슬픔의 관계에 어떻게 작용했나? | �
  회피 애착과 양가 애착은 어땠나? | 회피 애착도 이 관계를 키웠다. 양가 애착은 슬픔의 강도와 관련이 있었지만 이 관계를 뚜렷하게 바꾸지는 않았다.
  애착 유형이 슬픔을 정하나? | 아니다. 효과는 크지 않았고 애착 유형은 이 관계에 영향을 주는 여러 요인 가운데 하나일 뿐이라고 밝혔다.
 sources: Bisht S, Jain N, Chauhan M, Maurya R(2026). The Human-Pet Bond and Grief: Attachment Style as a Moderator after Pet Loss. Omega (Westport) (온라인 공개 2026-08-26) | https://doi.org/10.1177/00302228261481410
+date: 2026-11-18
+publish: yes
 ---
 이별 뒤의 슬픔이 유난히 깊게 느껴질 때가 있다. 그럴 때 「나는 왜 이렇게 힘들까」 하고 스스로를 탓하는 보호자도 있다.
 

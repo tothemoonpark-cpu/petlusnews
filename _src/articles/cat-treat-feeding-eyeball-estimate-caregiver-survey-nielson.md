@@ -13,6 +13,8 @@ faq: 고양이 간식은 하루에 얼마까지 줘도 되나? | 적정량을 �
 sources: Nielson SA, Khosa DK, Verbrugghe A, Clow KM(2024). Cat caregivers' perceptions, motivations, and behaviours for feeding treats: A cross sectional study. PLoS ONE 19(1):e0296011 | https://doi.org/10.1371/journal.pone.0296011
  Nielson SA, et al.(2024). 같은 논문, PMC 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC10781132
  WSAVA(2025). Feeding treats to your cat, 보호자용 안내문 | https://wsava.org/wp-content/uploads/2025/11/WSAVA_GuidetoTreats_Cats_251107.pdf
+date: 2026-11-18
+publish: yes
 ---
 고양이 간식을 얼마나 줬는지 헷갈릴 때가 있다. 이 글은 고양이만 다룬다.
 

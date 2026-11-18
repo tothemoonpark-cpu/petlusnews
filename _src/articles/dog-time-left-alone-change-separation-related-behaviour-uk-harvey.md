@@ -11,6 +11,8 @@ faq: 우리 개가 분리불안인지 알 수 있나? | 알 수 없다. 이 자�
  재택으로 오래 함께 지내다 다시 외출하면 문제가 생기나? | 혼자 둔 날이 더 많이 줄었던 개일수록 새 징후가 보고될 가능성이 높았지만, 원인을 밝힌 것은 아니다. 대부분의 개는 새 징후가 보고되지 않았다.
  혼자 두는 시간을 조금씩 늘리면 예방되나? | 저자들은 갑작스러운 일상 변화 뒤 혼자 두는 시간을 서서히 다시 늘리는 준비가 도움이 될 것이라고 논의했다. 그 훈련의 효과를 시험한 것은 아니다.
 sources: Harvey ND, Christley RM, Giragosian K, Mead R, Murray JK, Samet L, Upjohn MM, Casey RA(2022). Impact of Changes in Time Left Alone on Separation-Related Behaviour in UK Pet Dogs. Animals 12(4):482 | https://doi.org/10.3390/ani12040482
+date: 2026-11-19
+publish: yes
 ---
 오래 집에 있다가 다시 출근하게 됐다. 현관을 나서는 순간 개가 짖거나 서성이는 소리가 들려 마음에 걸린다. 이 글은 개만 다룬다.
 

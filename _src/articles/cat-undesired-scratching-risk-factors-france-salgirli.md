@@ -11,6 +11,8 @@ faq: 스크래처를 사 줬는데 소파를 긁으면? | 이미 소파 같은 �
  스크래처는 문제 장소와 같은 방에 둬야 하나? | 긁기 장치를 문제 긁기가 생기는 방과 같은 방에 둔 비율은 오히려 긁기가 심한 쪽에서 더 높았다. 같은 방에 놓았더니 줄었다는 결과가 아니므로, 위치를 시험한 결과로 읽으면 안 된다.
  고양이 놀이 시간을 늘리면 긁기가 줄까? | 놀이 시간을 바꿔 시험하지 않았고, 관련성만 살폈다. 저자들은 짧고 규칙적인 놀이가 도움이 될 수 있다고 제안했다.
 sources: Salgirli Demirbas Y, Soares Pereira J, De Jaeger X, Meppiel L, Endersby S, da Graça Pereira G(2024). Evaluating undesired scratching in domestic cats: a multifactorial approach to understand risk factors. Frontiers in Veterinary Science 11:1403068 | https://doi.org/10.3389/fvets.2024.1403068
+date: 2026-11-19
+publish: yes
 ---
 소파나 의자 모서리를 또 긁어 놓았다. 스크래처도 사 뒀는데 왜 그럴까 싶은 보호자가 많다. 이 글은 고양이만 다룬다.
 

@@ -13,6 +13,11 @@
 
 ## 기사
 
+- [고양이가 예전처럼 뛰고 계단을 오르내리는지 집에서 살펴보자](https://petlusnews.com/news/cat-joint-pain-six-activity-checklist-enomoto.html): 고양이가 뛰어오르기, 뛰어내리기, 계단, 달리기, 움직이는 물체 쫓기 중 하나라도 예전 같지 않으면 수의사에게 알리는 편이 좋다. 병원에서는 보기 어려운 일상 행동이 관절 통증을 알아채는 단서가 될 수 있다. 미국 노스캐롤라이나주립대가 2020년에 만든 체크리스트이며, 진단 도구가 아니다.
+- [소파를 긁는 고양이, 스크래처를 실제로 쓰는지부터 살펴보자](https://petlusnews.com/news/cat-undesired-scratching-risk-factors-france-salgirli.html): 소파를 긁는 고양이라면 집에 둔 스크래처를 실제로 쓰는지 먼저 살펴보는 편이 좋다. 프랑스 고양이 보호자의 답을 분석한 2024년 자료에서 긁기가 심한 쪽은 긁기 장치를 쓰는 비율이 63.0%로, 덜한 쪽의 74.8%보다 낮았다. 다만 원인을 밝힌 결과는 아니다.
+- [반려견을 안락사로 보냈든 갑자기 잃었든, 남은 보호자에게는 같은 애도 지원을 생각해 볼 만하다](https://petlusnews.com/news/dog-euthanasia-vs-unassisted-death-owner-experiences-similar-ryave.html): 반려견이 어떻게 떠났는지와 상관없이 남은 보호자에게는 비슷한 애도 지원을 생각해 볼 수 있다. 미국에서 2025년에 나온 분석에서, 보호자가 남긴 글에 부정적 감정이 적힌 비율은 안락사로 보낸 쪽과 안락사 없이 떠난 쪽이 뚜렷하게 다르지 않았다. 어느 쪽이 더 슬프다는 뜻은 아니다.
+- [개 밥은 하루 한 번이 더 좋을까, 이 결과만 보고 급여 횟수를 바꾸지는 말자](https://petlusnews.com/news/dog-once-daily-feeding-associated-health-dog-aging-bray.html): 개 밥을 하루 한 번만 주는 편이 건강에 낫다고 받아들일 근거는 아직 없다. 미국에서 2022년에 중성화한 개 보호자의 답을 분석했더니 하루 한 번 먹는 개에서 질환 보고가 적은 편이었다. 하지만 저자들 스스로 이 결과를 급여 결정에 쓰지 말라고 밝혔다.
+- [재택이 끝나고 다시 외출이 늘면, 개가 혼자 있는 시간을 서서히 늘려 주자](https://petlusnews.com/news/dog-time-left-alone-change-separation-related-behaviour-uk-harvey.html): 재택으로 오래 함께 지내다 다시 외출이 늘었다면 개가 혼자 있는 시간을 서서히 다시 늘려 보는 편이 좋다. 영국에서 2020년 봉쇄 전후를 따라간 자료에서, 혼자 둔 날이 더 많이 줄었던 개일수록 혼자 있을 때의 새 행동 징후가 보고될 가능성이 높았다. 다만 대부분의 개는 새 징후가 보고되지 않았고, 원인이 밝혀진 것은 아니다.
 - [이별 뒤 슬픔이 깊어도 스스로를 탓하지 않아도 된다](https://petlusnews.com/news/attachment-style-moderator-pet-loss-india.html): 반려동물과 이별한 뒤 슬픔이 깊더라도 그것이 잘못은 아니다. 인도에서 2026년에 나온 글에서는 사람의 애착 유형에 따라 유대와 슬픔의 관계가 달라졌지만, 그 차이는 크지 않았다. 슬픔을 애착 유형 하나로 설명하려 하지 않아도 된다.
 - [고양이 간식, 눈대중으로 주고 있다면 양부터 정해 두자](https://petlusnews.com/news/cat-treat-feeding-eyeball-estimate-caregiver-survey-nielson.html): 고양이 간식을 눈대중으로 주고 있다면 오늘 준 양부터 적어 보면 좋다. 캐나다 중심 보호자들의 응답에서 간식 양을 재는 방법으로 눈대중이 가장 흔했다. 구체적인 양은 우리 고양이 상태에 맞게 수의사와 정한다.
 - [차에 개를 태우기 전에 고정 방법부터 점검해 보자](https://petlusnews.com/news/dog-car-restraint-use-us-uk-australia-hazel.html): 개와 차를 탈 때 어떻게 고정하는지는 보호자마다 다르다. 미국·영국·호주 보호자들의 응답에서 항상 고정한다는 비율은 나라마다 달랐다. 어떤 제품이 더 안전한지는 이 자료로 알 수 없어 수의사나 제품 안전 정보를 확인해야 한다.

@@ -11,6 +11,8 @@ faq: 안락사를 선택하면 슬픔이 더 크거나 작은가? | 알 수 없�
  갑자기 떠난 아이의 보호자도 도움을 받을 수 있나? | 저자들은 사망 방식만으로 애도 지원의 필요를 달리 판단하지 말고, 두 경우 모두에 비슷한 지원을 고려하라고 제안했다. 지원 프로그램의 효과를 시험한 것은 아니다.
  좋은 추억을 말하는 사람에게도 애도 지원이 필요한가? | 저자들은 슬픔을 겉으로 드러내는 보호자뿐 아니라 좋은 추억을 이야기하려는 보호자에게도 자료가 도움이 될 수 있다고 제안했다.
 sources: Ryave J, Kutrybala I, Reiter T, Creevy KE 외, Dog Aging Project Consortium(2025). Owner-reported experiences are similar for dogs experiencing euthanasia or unassisted death: evaluation of the Dog Aging Project's End of Life Survey free-text responses. Journal of the American Veterinary Medical Association | https://doi.org/10.2460/javma.25.07.0464
+date: 2026-11-19
+publish: yes
 ---
 반려견이 안락사로 떠났는지, 안락사 없이 갑자기 떠났는지에 따라 남은 마음이 크게 다를 것이라 생각하기 쉽다. 그래서 어떻게 보냈든 내 마음을 어디에 두어야 할지 막막한 보호자도 있다. 이 글은 개의 죽음만 다룬다.
 

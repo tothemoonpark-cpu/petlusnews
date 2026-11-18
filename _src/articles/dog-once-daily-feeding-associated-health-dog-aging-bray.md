@@ -12,6 +12,8 @@ faq: 개 밥을 하루 한 번만 줘야 하나? | 그렇게 하라는 근거가
  지금 하루 두 번 주고 있는데 바꿔야 하나? | 이 결과만으로 바꿀 이유는 없다. 우리 개에게 맞는 횟수는 나이, 품종, 건강 상태에 따라 달라지므로 담당 수의사와 상의한다.
 sources: Bray EE, Zheng Z, Tolbert MK, McCoy BM, Dog Aging Project Consortium, Kaeberlein M, Kerr KF(2022). Once-daily feeding is associated with better health in companion dogs: results from the Dog Aging Project. GeroScience 44(3):1779-1790 | https://doi.org/10.1007/s11357-022-00575-7
  Bray EE, et al.(2022). 같은 논문, PMC 전문 | https://pmc.ncbi.nlm.nih.gov/articles/PMC9213604
+date: 2026-11-19
+publish: yes
 ---
 개 밥을 하루 한 번 줄지 두 번 줄지 고민하는 보호자가 많다. 하루 한 번 먹는 개가 더 건강하다는 이야기를 들으면 마음이 흔들리기도 한다. 이 글은 개만 다룬다.
 

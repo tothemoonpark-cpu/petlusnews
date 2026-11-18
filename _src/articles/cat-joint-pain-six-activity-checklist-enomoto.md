@@ -11,6 +11,8 @@ faq: 고양이가 높은 곳에 안 올라가면 관절 통증일까? | 그렇�
  여섯 가지 모두 정상이면 괜찮은 건가? | 아니다. 이 질환에 대한 안내를 받지 않은 보호자 집단에서는 통증이 있는 고양이 일부를 놓쳤다. 만든 이들도 음성이어도 질환이 있을 수 있다고 강조했다.
  계단이 없는 집에서는 어떻게 하나? | 여섯 문항 중 두 문항이 계단에 관한 질문이다. 나머지 네 문항만으로 계산해도 정확도가 거의 변하지 않았다고 만든 이들이 설명했지만, 그 수치는 제시되지 않았다.
 sources: Enomoto M, Lascelles BDX, Gruen ME(2020). Development of a checklist for the detection of degenerative joint disease-associated pain in cats. Journal of Feline Medicine and Surgery | https://pmc.ncbi.nlm.nih.gov/articles/PMC7736399
+date: 2026-11-19
+publish: yes
 ---
 고양이가 예전만큼 높은 곳에 오르지 않는다. 나이 탓이려니 하고 넘기기 쉬운 장면이다. 이 글은 고양이만 다룬다.
 

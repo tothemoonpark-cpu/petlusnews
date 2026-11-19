@@ -11,6 +11,8 @@ faq: 고양이 신장 처방식은 어떻게 바꾸나? | 수의사와 전환 �
  인결합제는 언제 먹이나? | 식사와 이어서 주도록 수의사에게 정확히 안내받는다. 저자들은 식사와 무관하게 주면 효과가 떨어질 수 있다고 설명했다.
  피하수액은 모든 만성콩팥병 고양이에게 필요한가? | 그렇게 보지 않는다. 저자들은 가정 피하수액을 처방하기 전에 습식 급여나 물그릇 여러 곳 같은 음수량 늘리기를 먼저 고려하고, 고양이마다 따로 판단하라고 했다.
 sources: Magalhães TR, Lourenço AL, Corbee RJ, Guerra I, Queiroga FL(2025). Caregivers' perspectives on feline chronic kidney disease in Portugal: a questionnaire-based study. Journal of Feline Medicine and Surgery 27(12):1098612X251377486 | https://doi.org/10.1177/1098612X251377486
+date: 2026-11-20
+publish: yes
 ---
 만성콩팥병 진단을 받은 고양이를 돌보면 식사, 약, 수액, 재검이 한꺼번에 밀려온다. 병원에서 들은 설명을 다 기억하기는 쉽지 않다.
 

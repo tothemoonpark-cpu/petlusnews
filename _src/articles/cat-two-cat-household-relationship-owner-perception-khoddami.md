@@ -11,6 +11,8 @@ faq: 고양이 두 마리는 보통 사이가 좋은가? | 미국·캐나다 보
  밥그릇과 화장실을 여러 곳에 나누면 사이가 좋아지나? | 그렇다고 단정할 수 없다. 나눈 집에서 부정적 평가가 더 많았지만 사이가 나빠서 나눈 집이 섞였을 수 있다. 나눠서 관계가 나빠졌다는 뜻도 아니다.
  새 고양이를 들일 때 무엇을 따져 보나? | 혈연이 없는 조합과 중성화한 암컷 둘에서 부정적 평가가 더 많았다. 저자들은 입양 전에 혈연과 어릴 때의 유대를 알리라고 했지만, 효과가 검증된 입양 방법은 아니다.
 sources: Khoddami S, Kiser MC, Moody CM(2023). Why can't we be friends? Exploring factors associated with cat owners' perceptions of the cat-cat relationship in two-cat households. Frontiers in Veterinary Science 10:1128757 | https://doi.org/10.3389/fvets.2023.1128757
+date: 2026-11-20
+publish: yes
 ---
 고양이 두 마리를 함께 키우다 보면 둘이 잘 지내는지, 어디부터가 갈등인지 판단하기 어렵다.
 

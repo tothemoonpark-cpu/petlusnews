@@ -11,6 +11,8 @@ faq: 수제 화식을 먹이면 병에 더 잘 걸리나? | 그렇게 말할 수
  생식이 더 건강하다는 결과인가? | 아니다. 생식을 먹는 개의 소화기 질환이 줄었다는 결과는 통계적으로 확실하지 않았다. 상업 생식을 먹는 개는 호흡기 질환이 더 자주 보고됐지만 품종을 고려하면 약해졌다.
  지금 먹이는 식단을 바꿔야 하나? | 이 결과로는 바꿀 근거가 없다. 식단을 바꾸거나 직접 조리하려면 수의사와 상의해 영양이 균형 잡혔는지 확인한다.
 sources: Varela Ortiz A, Luo I, O'Brien J, Murphy M, Rollins AW, Kaeberlein M, Dog Aging Project Consortium, Ruple A, Kerr KF, Tolbert MK(2025). Association Between Diet Type and Owner-Reported Health Conditions in Dogs in the Dog Aging Project. Journal of Veterinary Internal Medicine 39(3):e70060 | https://doi.org/10.1111/jvim.70060
+date: 2026-11-20
+publish: yes
 ---
 수제 화식이나 생식을 먹이는 보호자가 늘고 있다. 그런 식단을 먹는 개의 건강이 어떤지는 아직 알려진 것이 많지 않다.
 

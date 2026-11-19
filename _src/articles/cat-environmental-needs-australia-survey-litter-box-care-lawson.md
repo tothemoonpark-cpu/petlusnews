@@ -11,6 +11,8 @@ faq: 고양이 화장실은 몇 개가 좋은가? | 정해진 개수는 없다. 
  화장실은 얼마나 자주 치워야 하나? | 대변을 자주 치우지 않는 집에서 소변 문제가, 청소가 드문 집에서 화장실 밖 배뇨가 더 많이 보고됐다. 청소가 원인이라는 뜻은 아니지만 대변은 자주, 소변 뭉친 모래도 건너뛰지 않는 편이 좋다.
  소변 문제가 있으면 집 환경만 바꾸면 되나? | 아니다. 소변 볼 때 힘을 주거나 소변이 거의 나오지 않거나 피가 섞이면 환경을 바꾸기 전에 바로 병원에 간다.
 sources: Lawson GT, Langford FM, Harvey AM(2020). The environmental needs of many Australian pet cats are not being met. Journal of Feline Medicine and Surgery 22(10):898-906 | https://doi.org/10.1177/1098612X19890189
+date: 2026-11-20
+publish: yes
 ---
 고양이가 화장실 밖에 소변을 보면 성격 탓으로 여기기 쉽다. 하지만 화장실을 어떻게 두었는지가 관련될 수 있다.
 

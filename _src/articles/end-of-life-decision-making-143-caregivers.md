@@ -11,6 +11,8 @@ faq: 보호자는 무엇을 두고 괴로워했나? | 안락사를 해야 하는
  수의 진료팀에서 도움이 된 것은? | 수의사의 공감, 투명한 설명, 앞날을 내다보는 안내가 보호자가 의식을 준비하고 가족과 함께 뜻깊은 작별을 하도록 도왔다고 한다.
  마지막 시기 돌봄에서 무엇이 중요하다고 정리됐나? | 수의 진료에서 기술 전문성과 함께 관계 중심의 돌봄이 중요하며, 마지막 시기 돌봄은 공감과 일찍부터의 투명한 소통, 소중한 시간을 보낼 기회를 우선해야 한다고 정리됐다.
 sources: Kogan LR, Currin-McCulloch J, Jafarian S, Klein E, Cooney K(2026). "Learning to Live Without Him in My Home When a Piece of My Heart Went with Him": End-of-Life Decision-Making Experiences of Companion Animal Caregivers. Animals (Basel) 16(18):2890 (온라인 공개 2026-09-14) | https://doi.org/10.3390/ani16182890
+date: 2026-11-20
+publish: yes
 ---
 아이의 마지막이 가까워지면 삶의 질, 통증을 덜어 줄 방법, 치료 선택지, 비용이 한꺼번에 머릿속에 들어온다. 안락사를 해야 하는지, 언제 해야 하는지는 쉽게 답이 나오지 않는다.
 

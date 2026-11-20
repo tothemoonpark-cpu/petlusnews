@@ -11,6 +11,8 @@ faq: 고양이가 병원에서 하악질을 하면 집에서도 공격적인 고
  병원에서 으르렁대는 고양이는 흔한가? | 진료 중 으르렁·하악질·할퀴기·물기 중 하나라도 있었다고 답한 보호자가 적지 않았다. 보호자가 모인 온라인 답변이라 전체 고양이의 비율은 아니다.
  병원 가기 전에 약이나 보충제를 먹여도 되나? | 약과 보충제가 병원에서의 행동을 바꾸는지는 비교하지 않았다. 약은 반드시 수의사와 상의해서만 쓴다.
 sources: Gerken A, Lee K, Bain M, Kim S-A(2024). Correlation between aggression at the veterinary clinic and problem behaviors at home for cats in the USA. Journal of Feline Medicine and Surgery 26(2):1098612X231214907 | https://doi.org/10.1177/1098612X231214907
+date: 2026-11-21
+publish: yes
 ---
 병원에 가려고 이동장을 꺼내자 고양이가 벌써 몸을 낮추고 있다. 진료대 위에서 하악질이 나오면 보호자도 당황한다. 이 글은 고양이만 다룬다.
 

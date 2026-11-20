@@ -11,6 +11,8 @@ faq: 반려동물을 잃은 사람에게 어떤 도움이 되나? | 인도네시
  슬픔을 어떻게 다뤄야 하나? | 참가자들은 추모하고 감정을 표현하는 방식과, 주의를 돌리거나 떠올리게 하는 것을 피하는 방식을 모두 서술했다. 어느 쪽이 낫다는 결론은 없다. 슬픔이 일상을 오래 막을 만큼 무겁다면 전문 상담이나 지지 모임을 찾는다.
  반려동물을 잃은 뒤 어떤 변화가 있었나? | 일부 참가자는 슬픔과 상실을 받아들이게 되었고 반려동물 복지에 대한 관심이 커졌다고 서술했다. 몇 명이 그랬는지는 알 수 없고, 모두에게 일어나는 일도 아니다.
 sources: Paramarta ASA, Putri AK, Yuniarti KW(2024). Qualitative Exploration of Pet Bereavement Experience among Indonesian Pet-Bereaved Individuals. Thanatos 12 | https://doi.org/10.57124/thanatos.145301
+date: 2026-11-21
+publish: yes
 ---
 소중한 아이를 떠나보낸 친구에게 무슨 말을 건네야 할지 몰라 메시지창만 열었다 닫는다. 슬퍼하는 본인도 어떤 도움을 청해야 할지 모를 때가 있다. 슬픔의 모습은 사람마다 다르다.
 

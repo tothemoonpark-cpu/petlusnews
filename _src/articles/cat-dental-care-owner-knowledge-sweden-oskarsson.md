@@ -11,6 +11,8 @@ faq: 고양이 칫솔질은 얼마나 자주 하나? | 스웨덴 보호자 중 �
  고양이 치아 문제는 어떤 모습으로 알아챌 수 있나? | 보호자들이 가장 많이 꼽은 징후는 먹는 방식의 변화였고, 그다음이 잇몸 염증, 입냄새, 통증, 치석 순이었다. 이런 변화가 보이면 칫솔질을 시작하기 전에 수의사의 구강 검진을 먼저 받는다.
  칫솔질을 싫어하는 고양이는 어떻게 하나? | 저자들은 칫솔질을 견디지 못하는 고양이의 보호자에게는 동기와 실제 선택지를 따로 고려하고 대안을 함께 논의해야 한다고 했다. 억지로 하기보다 수의사나 수의간호사와 방법을 상의한다.
 sources: Oskarsson K, Axelsson Puurtinen L, Penell JC(2021). Dental Problems and Prophylactic Care in Cats—Knowledge and Perceptions among Swedish Cat Owners and Communication by Veterinary Care Staff. Animals 11(9):2571 | https://doi.org/10.3390/ani11092571
+date: 2026-11-21
+publish: yes
 ---
 고양이가 하품할 때 입냄새가 훅 올라오는데, 어디서부터 손대야 할지 막막하다. 치아 관리는 대부분 집에서 보호자의 손으로 이루어진다. 이 글은 고양이만 다룬다.
 

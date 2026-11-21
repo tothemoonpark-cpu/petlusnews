@@ -11,6 +11,8 @@ faq: 안락사 후 동물병원에서 애도 자료를 받을 수 있나요? | �
  병원 직원은 보호자에게 지원이 필요한지 어떻게 판단하나요? | 직원들은 보호자의 연령, 반려동물과의 유대의 강도, 과거와 현재의 삶의 상황, 안락사 과정에서의 정서 상태를 고려한다고 했다. 이는 직원들의 설명이며 정해진 평가 도구가 아니다.
  전화나 인터넷 상담 자료로 충분할까요? | 직원들은 전화·인터넷 자료가 대면 상담을 원하는 보호자의 필요를 채우지 못할 수 있다고 걱정했다. 이는 직원들의 인식이며 자료의 효과를 직접 평가한 결과는 아니다.
 sources: Matte AR, Khosa DK, Meehan MP(2021). Exploring how veterinary professionals perceive and use grief support resources to support companion animal caregivers in Ontario, Canada. Veterinary Evidence 6(4) | https://doi.org/10.18849/ve.v6i4.430
+date: 2026-11-22
+publish: yes
 ---
 반려동물을 안락사로 떠나보내고 병원 문을 나서면, 누구에게 도움을 청해야 할지 막막할 수 있다. 병원에 애도 자료가 있는지 물어봐도 되는지 망설이는 보호자도 있다.
 

@@ -11,6 +11,8 @@ faq: 우리 개 접종이 최신인지 어떻게 확인하나요? | 접종 수�
  개 백신은 무조건 매년 맞아야 하나요? | 저자들은 이 글에서 다룬 생백신을 필요 이상으로 자주 맞히면 안 된다고 했다. 우리 개의 백신 종류와 간격은 수의사와 정한다.
  백신 부작용이 걱정되면 어떻게 하나요? | 과거에 이상반응을 겪은 경험이 이후 접종을 꺼리는 것과 관련이 있었다. 이전에 반응이 있었다면 접종 전에 수의사에게 알리고 다음 접종 방법을 상의한다.
 sources: Eschle S, Hartmann K, Rieger A, Fischer S, Klima A, Bergmann M(2020). Canine vaccination in Germany: A survey of owner attitudes and compliance. PLOS ONE 15(8):e0238371 | https://doi.org/10.1371/journal.pone.0238371
+date: 2026-11-22
+publish: yes
 ---
 강아지 때는 접종 일정을 잘 지키다가 성견이 되면 마지막 접종이 언제였는지 헷갈리는 경우가 많다. 그런 일은 흔하니 자책하지 않아도 된다.
 

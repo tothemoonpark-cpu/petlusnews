@@ -11,6 +11,8 @@ faq: 노견이 서성이거나 엉뚱한 곳을 보면 치매일까요? | 보호
  노령견의 관절 통증과 인지 저하는 관계가 있을까요? | 인지 저하 점수가 높은 개일수록 관절·신경계 징후가 강하게 함께 나타났다. 다만 통증이 인지 저하를 일으킨다고 증명한 것은 아니고 나이 같은 공통 요인일 수도 있다.
  노견 건강검진에서 무엇을 말해야 하나요? | 자고 깨는 때가 바뀐 것, 길을 헤매는 것, 불러도 반응이 없는 것, 먹는 방식이 달라진 것 같은 변화를 날짜와 함께 적어 가면 수의사가 몸 상태와 행동을 함께 살필 수 있다.
 sources: Wrightson R, Albertini M, Pirrone F, McPeake K, Piotti P(2023). The Relationship between Signs of Medical Conditions and Cognitive Decline in Senior Dogs. Animals 13(13):2203 | https://doi.org/10.3390/ani13132203
+date: 2026-11-22
+publish: yes
 ---
 나이 든 개가 서성이거나 가족을 못 알아보는 듯 굴면 보호자는 먼저 치매를 떠올리게 된다. 그런데 그 행동 뒤에 관절이 아프거나 눈과 귀가 어두워진 일이 있을 수도 있다.
 

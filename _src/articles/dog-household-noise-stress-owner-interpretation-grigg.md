@@ -11,6 +11,8 @@ faq: 개가 청소기나 알람 소리를 무서워하면 어떤 행동을 보�
  개가 소리에 놀랐을 때 웃거나 일부러 소리를 내 반응을 봐도 될까요? | 그렇게 해서 어떻게 되는지 시험한 자료는 없다. 영상 속 보호자 중에는 웃거나 일부러 자극한 경우가 있었다. 저자들은 보호자가 개의 스트레스 신호를 정확히 읽는 교육이 필요하다고 했다.
  연기감지기나 알람이 개를 놀라게 하면 없애도 되나요? | 아니다. 저자들도 경보기의 안전상 중요성을 인정했고, 끄거나 떼어 내라는 근거가 아니다. 반응이 심하면 수의사나 행동 전문가와 상의한다.
 sources: Grigg EK, Chou J, Parker E, Gatesy-Davis A, Clarkson ST, Hart LA(2021). Stress-Related Behaviors in Companion Dogs Exposed to Common Household Noises, and Owners' Interpretations of Their Dogs' Behaviors. Frontiers in Veterinary Science 8:760845 | https://doi.org/10.3389/fvets.2021.760845
+date: 2026-11-22
+publish: yes
 ---
 청소기를 켜거나 알람이 울리면 개가 짖거나 어디론가 숨는 모습을 본 적이 있을 것이다. 불꽃놀이나 천둥만이 아니라 집 안의 흔한 소리도 개에게는 불안할 수 있다.
 

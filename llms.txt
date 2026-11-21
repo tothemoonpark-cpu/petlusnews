@@ -13,6 +13,11 @@
 
 ## 기사
 
+- [고양이 푸드 퍼즐, 밥의 일부만 넣어 시작해 봐도 되나요](https://petlusnews.com/news/cat-feeding-practices-food-puzzles-owner-survey-delgado.html): 푸드 퍼즐을 써 보고 싶다면 사료의 일부만 넣는 것부터 시작해 볼 수 있다. 고양이 보호자 약 3,200명에게 물어보니 현재 쓰는 사람은 30%였고 그중 절반은 가끔만 썼다. 퍼즐이 체중이나 건강에 주는 효과는 아직 확인되지 않았다.
+- [우리 개가 알람이나 청소기 소리를 무서워한다면 몸짓부터 살펴보자](https://petlusnews.com/news/dog-household-noise-stress-owner-interpretation-grigg.html): 알람의 삐 소리나 청소기 같은 가전 소리에도 개는 짖고, 물러나고, 숨을 수 있다. 반응을 보려고 일부러 소리를 내거나 웃으며 지켜보기보다 몸짓을 살피는 편이 좋다. 소리 공포가 얼마나 흔한지를 말해 주는 자료는 아니다.
+- [나이 든 개의 행동이 달라졌다면 치매를 의심하기 전에 몸 상태부터 확인받아 보자](https://petlusnews.com/news/dog-senior-cognitive-decline-medical-signs-wrightson.html): 나이 든 개의 행동이 달라졌다면 관절, 시력, 청력 같은 몸 상태부터 확인받는 편이 좋다. 영국과 이탈리아에서 노령견 보호자에게 물어보니 인지 저하 점수가 높은 개일수록 관절·신경계 징후가 많았다. 원인과 결과를 가린 것은 아니며 수의사가 확진한 자료도 아니다.
+- [우리 개 접종이 최신인지 헷갈린다면 수첩의 마지막 접종일부터 확인해 보자](https://petlusnews.com/news/dog-vaccination-owner-compliance-germany-eschle.html): 개 접종이 최신인지는 기억보다 접종 수첩이나 진료 기록의 날짜로 확인하는 편이 정확하다. 독일에서 2018~2019년에 보호자에게 물으니 당시 독일 지침대로 접종이 최신인 개는 절반이 되지 않았다. 독일 한 나라에서 자원한 보호자의 응답이라 한국 사정이나 전체 접종률은 아니다.
+- [반려동물을 안락사로 보낸 뒤 병원에 애도 자료나 상담을 먼저 물어봐도 되나요](https://petlusnews.com/news/pet-euthanasia-grief-resources-vet-staff-ontario-matte.html): 안락사로 반려동물을 떠나보낸 뒤 애도 자료나 상담이 필요하다면 병원에 먼저 물어봐도 된다. 캐나다 온타리오 동물병원 직원들은 자료를 보호자가 청하거나 직원이 필요하다고 판단할 때 건넨다고 했다. 병원 직원들의 이야기를 들은 자료라서 어떤 자료가 도움이 되는지는 말해 주지 않는다.
 - [고양이가 병원에서 하악질을 한다면 예약할 때 미리 알려 두자](https://petlusnews.com/news/cat-aggression-veterinary-clinic-problem-behaviors-home-gerken.html): 병원에서 하악질을 하는 고양이라면 예약할 때 미리 알려 두는 편이 좋다. 미국 보호자들의 답에서 진료 중 으르렁·하악질·할퀴기·물기는 드물지 않았고, 집에서 낯선 사람에게 공격적인 고양이일수록 병원에서도 그런 경향이 컸다. 보호자가 스스로 답한 자료이며 고양이만 다룬다.
 - [고양이 칫솔질을 시작하기 전에 수의사에게 입부터 보여 주자](https://petlusnews.com/news/cat-dental-care-owner-knowledge-sweden-oskarsson.html): 고양이 치아 관리는 칫솔질부터 서두르기보다 수의사의 구강 검진을 먼저 받는 편이 좋다. 스웨덴 보호자들은 치아 질환을 알고 있다고 답했지만 칫솔질을 하는 보호자는 약 28%였다. 보호자가 스스로 답한 자료이며 고양이만 다룬다.
 - [우리 아이가 적정 체중인지, 눈대중 대신 수의사에게 체형 점수를 물어보자](https://petlusnews.com/news/dog-cat-body-condition-owner-perception-france-blanchard.html): 개와 고양이의 체형은 보호자가 눈으로만 판단하면 수의사의 평가와 어긋나기 쉽다. 프랑스에서 보호자가 매긴 체형 점수가 수의사보다 낮았던 비율은 개 27.0%, 고양이 24.1%였다. 체중을 재고 수의사에게 체형 점수를 확인받는 편이 안전하다.

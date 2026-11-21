@@ -11,6 +11,8 @@ faq: 푸드 퍼즐을 쓰는 보호자가 많은가요? | 온라인으로 답한
  고양이가 퍼즐을 안 하려는 이유는 무엇이었나요? | 쓰다 그만둔 보호자는 고양이가 게으르다는 생각과 사용법을 알아내지 못한 점을 많이 꼽았다. 한 번도 쓰지 않은 보호자는 개와 같이 사는 환경, 고양이마다 다른 체중 목표, 벌레 걱정을 많이 꼽았다.
  푸드 퍼즐을 쓰면 살이 빠지나요? | 퍼즐이 체중이나 건강에 주는 결과는 확인하지 않았다. 저자들도 고양이 복지에 미치는 영향은 근거가 부족하다고 했다. 체중이 걱정되면 급여량과 방법을 수의사와 정한다.
 sources: Delgado MM, Bain MJ, Buffington CAT(2020). A survey of feeding practices and use of food puzzles in owners of domestic cats. Journal of Feline Medicine and Surgery 22(2):193-198 | https://doi.org/10.1177/1098612X19838080
+date: 2026-11-22
+publish: yes
 ---
 고양이 밥을 그릇 대신 푸드 퍼즐로 주라는 이야기를 들어 본 적이 있을 것이다. 해 보고 싶다가도 우리 고양이가 안 할 것 같아 망설여지기도 한다.
 

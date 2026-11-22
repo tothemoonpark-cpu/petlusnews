@@ -11,6 +11,8 @@ faq: 고양이가 가구를 긁으면 꾸짖어야 하나? | 말로 꾸짖거나
  스크래처는 몇 개나 놓아야 하나? | 개수 기준은 나와 있지 않다. 기둥을 더 놓은 집에서 손상 보고가 적었다는 관계만 확인됐다. 우리 집에 맞는 개수는 수의사에게 물어본다.
  스크래처를 놓으면 긁기가 줄어든다고 말할 수 있나? | 아니다. 한 시점에 보호자가 답한 내용이라 방법의 효과나 원인을 증명하지 못한다.
 sources: Cisneros A, Litwin D, Niel L, Stellato AC. Unwanted Scratching Behavior in Cats: Influence of Management Strategies and Cat and Owner Characteristics. Animals. 2022;12(19):2551. | https://doi.org/10.3390/ani12192551
+date: 2026-11-23
+publish: yes
 ---
 고양이가 소파와 카펫을 긁어 놓은 것을 보면 속이 상한다. 이 글은 고양이 이야기이며, 집 안 물건 손상을 다룬다. 사람을 할퀴는 행동은 다루지 않는다.
 

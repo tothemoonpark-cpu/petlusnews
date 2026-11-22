@@ -11,6 +11,8 @@ faq: 개가 자다가 다리를 움찔하면 이상한 건가? | 한 살 무렵 
  개가 크게 코를 골면 병원에 가야 하나? | 원인이나 진단 기준은 나와 있지 않다. 자주 크게 코를 골거나 호흡이 멎는 듯 보이면 영상을 찍어 수의사에게 보여 준다.
  하루에 몇 시간을 자야 정상인가? | 보호자가 짐작한 시간이라 권장 수면량을 정하지 못한다. 그래서 수면 시간 수치는 싣지 않았다.
 sources: Kinsman R, Owczarczak-Garstecka S, Casey R, Knowles T, Tasker S, Woodward J, Da Costa R, Murray J. Sleep Duration and Behaviours - A Descriptive Analysis of a Cohort of Dogs up to 12 Months of Age. Animals. 2020;10(7):1172. | https://doi.org/10.3390/ani10071172
+date: 2026-11-23
+publish: yes
 ---
 강아지가 자다가 낑낑거리고 다리를 움찔하면 어딘가 아픈지 걱정된다. 이 글은 개 이야기이며 고양이는 다루지 않는다.
 

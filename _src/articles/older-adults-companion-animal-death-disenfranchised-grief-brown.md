@@ -11,6 +11,8 @@ faq: 인정받지 못하는 슬픔이란 무엇인가? | 주변이 그 상실을
  이 글이 펫로스가 병이 된다는 뜻인가? | 아니다. 병인지 진단한 내용이 아니라 보호자가 스스로 답한 경험이다.
  곁에 있는 사람은 무엇을 할 수 있나? | 어떤 도움이 효과가 있는지는 확인되지 않았다. 다만 응답자들은 슬픔이 사회적으로 인정되는 것과 사별 지원이 부족하다고 느꼈다.
 sources: Brown CA, Wilson DM, Carr E, Gross DP, Miciak M, Wallace JE. Older adults and companion animal death: A survey of bereavement and disenfranchised grief. Human-Animal Interactions. 2023;11(1). | https://doi.org/10.1079/hai.2023.0017
+date: 2026-11-23
+publish: yes
 ---
 반려동물이 죽었는데 "그래도 동물이잖아요"라는 말을 들을까 봐 속마음을 숨기는 사람이 있다. 이 글은 개나 고양이를 떠나보낸 노년의 보호자 이야기다.
 

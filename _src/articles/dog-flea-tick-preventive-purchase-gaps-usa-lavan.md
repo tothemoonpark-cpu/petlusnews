@@ -11,6 +11,8 @@ faq: 벼룩·진드기 예방약은 1년 내내 써야 하나? | 이 자료는 �
  약을 샀다는 기록은 먹이거나 바른 기록인가? | 아니다. 구매한 날 바로 투약하고 여러 회분은 제때 투약한 것으로 가정해 계산한 값이다.
  이 분석은 누가 비용을 댔나? | 비교한 제품 가운데 하나의 제조사인 Merck Animal Health가 비용을 댔고, 저자 가운데 세 명은 Merck 소속이다.
 sources: Lavan R, Normile D, Husain I, Singh A, Armstrong R, Heaney K. An assessment of canine ectoparasiticide administration compliance in the USA. Parasites & Vectors. 2022;15:32. | https://doi.org/10.1186/s13071-021-05134-1
+date: 2026-11-23
+publish: yes
 ---
 벼룩·진드기 약을 먹이고 나면 다음 날짜는 잊기 쉽다. 이 약은 일정한 간격으로 이어 가야 효과가 이어진다. 이 글은 개 이야기이며 고양이는 다루지 않는다.
 

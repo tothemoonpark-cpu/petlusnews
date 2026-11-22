@@ -11,6 +11,8 @@ faq: 생식이 위험하다는 뜻인가? | 아니다. 보호자의 생각과 �
  보호자들은 왜 생식을 택했나? | 개의 육식 본성을 존중하려고, 건강이 나아지기를 기대해서, 예전에 상업용 사료로 문제가 생겨서 택한 경우가 가장 많았다.
  고양이에게도 해당하나? | 아니다. 개 보호자의 이야기만 담았다.
 sources: Morelli G, Bastianello S, Catellani P, Ricci R. Raw meat-based diets for dogs - survey of owners' motivations, attitudes and practices. BMC Veterinary Research. 2019;15:74. | https://doi.org/10.1186/s12917-019-1824-x
+date: 2026-11-23
+publish: yes
 ---
 생식을 먹이는 보호자는 개를 위해 고민해서 고른 경우가 많다. 이 글은 개 이야기이며 고양이는 다루지 않는다. 생식이 옳은지 그른지를 가리는 글도 아니다.
 

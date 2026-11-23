@@ -11,6 +11,8 @@ faq: 안락사로 보낸 뒤 보호자들은 어떻게 애도했나? | 미국 �
  혼자 애도하는 것이 나쁘다는 뜻인가? | 아니다. 어떤 방법이 슬픔을 줄였는지는 따져 보지 않았고, 보호자들이 무엇을 했는지만 물었다.
  지지집단은 도움이 안 된다는 뜻인가? | 아니다. 지지집단에 참여한 사람이 아주 적었다는 보고일 뿐, 효과를 비교한 결과가 아니다.
 sources: Park R, Royal K. A National Survey of Companion Animal Owners' Self-Reported Methods of Coping Following Euthanasia. Veterinary Sciences. 2020;7(3):89. | https://doi.org/10.3390/vetsci7030089
+date: 2026-11-24
+publish: yes
 ---
 반려동물을 안락사로 보내고 나면 그 뒤를 어떻게 견뎌야 할지 막막할 수 있다. 주변에 물어보기도 쉽지 않다.
 

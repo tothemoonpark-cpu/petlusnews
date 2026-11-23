@@ -11,6 +11,8 @@ faq: 개가 뛰어오를 때 밀어내면 안 되나? | 미국애견협회 안�
  모른 척하면 저절로 고쳐지나? | 관심을 끊으면 이론상으로는 줄어들 수 있다. 다만 만나는 사람 모두가 같은 규칙을 지키지는 않고 개도 답답해할 수 있어, 대신 할 행동을 가르치라고 안내한다.
  무엇을 가르치면 되나? | 네 발을 바닥에 두고 인사하기, 또는 앉아서 인사하기다. 「뛰지 마」보다 「앉아」가 개에게 더 쉬운 규칙이라고 안내한다.
 sources: American Kennel Club(2025-11-10 갱신). How to Stop Your Dog From Jumping Up on People. Stephanie Gibeault, MSc, CPDT | https://www.akc.org/expert-advice/training/how-to-stop-your-dog-from-jumping-up-on-people/
+date: 2026-11-24
+publish: yes
 ---
 현관문이 열리면 개가 손님에게 뛰어올라 당황한 적 있으시죠? 개에게는 자연스러운 인사 행동이라지만 옷에 발자국이 남고, 어르신이나 어린 자녀가 넘어질까 걱정된다.
 

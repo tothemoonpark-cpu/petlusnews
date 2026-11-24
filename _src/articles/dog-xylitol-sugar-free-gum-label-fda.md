@@ -11,6 +11,8 @@ faq: 자일리톨은 어디에 들어 있나? | 미국 식품의약국 안내에
  사람은 괜찮은데 개에게는 왜 위험한가? | 사람은 자일리톨을 먹어도 췌장에서 인슐린이 나오도록 자극받지 않는다. 개는 자일리톨이 더 빨리 흡수되고 인슐린이 강하게 나올 수 있어 혈당이 빠르게 크게 떨어질 수 있다고 안내한다.
  고양이도 위험한가? | 같은 안내는 자일리톨이 고양이에게는 개만큼 위험해 보이지 않는다고 적었다. 고양이가 단것을 꺼리는 것도 한 이유로 보인다고 한다.
 sources: U.S. Food and Drug Administration(2025-12-17 기준 내용). Paws Off Xylitol; It's Dangerous for Dogs | https://www.fda.gov/consumers/consumer-updates/paws-xylitol-its-dangerous-dogs
+date: 2026-11-25
+publish: yes
 ---
 가방에 넣어 둔 무설탕 껌을 개가 물어 간 적 있으시죠? 초콜릿뿐 아니라 자일리톨이 든 무설탕 껌도 개에게 위험할 수 있다.
 

@@ -13,6 +13,11 @@
 
 ## 기사
 
+- [고양이가 헤어볼을 토한다면, 병원에 가야 하는 때부터 알아 두자](https://petlusnews.com/news/cat-hairball-when-to-see-vet-no-laxative-cornell.html): 고양이가 한두 주에 한 번 헤어볼을 토하는 것은 드문 일이 아니다. 다만 기운이 없거나, 밥을 하루 이틀 넘게 먹지 않거나, 헛구역질이나 구토가 되풀이되면 곧바로 진찰을 받으라고 미국 코넬대학교 고양이건강센터가 안내한다.
+- [신발을 물어뜯는 개, 치우기와 씹을 장난감 바꿔 주기부터 해 보자](https://petlusnews.com/news/dog-destructive-chewing-toys-rotate-aspca.html): 개가 물건을 씹는 것은 정상적인 행동이다. 미국동물학대방지협회(ASPCA)는 씹으면 안 되는 물건을 치우고, 씹어도 되는 장난감을 넉넉히 주며, 무엇을 씹어도 되는지 부드럽게 가르치라고 안내한다.
+- [무설탕 껌과 땅콩버터, 개에게 주기 전에 성분표에서 자일리톨부터 찾자](https://petlusnews.com/news/dog-xylitol-sugar-free-gum-label-fda.html): 무설탕 껌이나 사탕에 든 자일리톨은 개에게 위험할 수 있다. 미국 식품의약국(FDA)은 무설탕·저당 제품의 성분표에서 자일리톨을 확인하고, 개가 먹은 것 같으면 곧바로 병원에 연락하라고 안내한다.
+- [아이가 떠난 뒤 집이 너무 조용하다면, 그 빈자리부터 알아차려 보자](https://petlusnews.com/news/pet-loss-silent-house-absence-avma.html): 반려동물을 떠나보낸 뒤 집 안의 조용함이 크게 느껴질 수 있다. 미국수의사회(AVMA)는 그 빈자리를 알아차리는 것만으로도 밀려오는 감정에 대비하는 데 도움이 된다고 안내한다. 슬픔에는 정해진 순서가 없다고도 한다.
+- [겨울철 집 안 채비, 잠자리는 여러 곳에 두고 난로는 조심해서 쓰자](https://petlusnews.com/news/winter-home-prep-sleeping-spots-heaters-avma.html): 추워지면 개와 고양이가 집 안에서 지내는 시간이 길어진다. 따뜻한 정도가 다른 잠자리를 여러 곳에 두고, 젖은 옷은 마른 옷으로 갈아입히고, 전기난로는 조심해서 쓰라고 미국수의사회(AVMA)가 안내한다.
 - [고양이를 실내에서만 키울까 밖에도 내보낼까, 정하기 전에 살펴볼 것](https://petlusnews.com/news/cat-indoor-only-vs-indoor-outdoor-owner-decision-foreman-worsley.html): 고양이를 실내에서만 키울지 밖에도 내보낼지는 고양이의 나이, 건강 상태, 사는 동네를 함께 놓고 정하게 된다. 보호자들의 선택을 모은 내용이며, 어느 쪽이 더 안전하거나 행복한지는 비교하지 않았다.
 - [반려동물을 안락사로 보낸 뒤, 마음을 어떻게 돌볼 수 있을까](https://petlusnews.com/news/companion-animal-euthanasia-owners-coping-methods-us-survey-park.html): 반려동물을 안락사로 보낸 뒤 혼자 조용히 애도한 보호자도, 가족·친구에게 마음을 기댄 보호자도 많았다. 미국 보호자들의 이야기이며, 어떤 방법이 슬픔을 줄였는지는 비교하지 않았다.
 - [우리 개가 적정 체중이라고 믿고 있다면 수의사에게 한 번 확인받자](https://petlusnews.com/news/dog-exercise-weight-perception-feeding-habits-five-countries-banton.html): 개가 적정 체중이라는 믿음은 보호자의 느낌일 수 있어서, 수의사에게 몸무게와 체형을 확인받는 일이 먼저다. 캐나다·미국·독일·프랑스·영국 개 보호자들은 매일 주는 추가 음식 종류가 많을수록 우리 개가 적정 체중이라고 답하는 경우가 적었다. 실제 체중을 잰 것이 아니며 사료 업체의 후원을 받았다.

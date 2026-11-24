@@ -11,6 +11,8 @@ faq: 털이 있으니 개와 고양이는 사람보다 추위에 강하지 않�
  개에게 옷을 입혀야 하나? | 털이 짧거나 추위를 힘들어하는 개라면 스웨터나 개 코트를 고려하라고 안내한다. 젖은 옷은 오히려 개를 더 춥게 할 수 있어 여러 벌을 두고 나갈 때마다 마른 옷을 입히라고 한다.
  겨울에 병원에 가 둘 일이 있나? | 추위는 관절염 같은 일부 질환을 나쁘게 할 수 있다. 미국수의사회는 적어도 한 해에 한 번 진찰을 받으라고 하며, 추워지기 전이 그 진찰을 받기에 좋은 때라고 안내한다.
 sources: American Veterinary Medical Association. Cold weather animal safety(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/cold-weather-animal-safety
+date: 2026-11-25
+publish: yes
 ---
 날이 추워지자 개가 이불 속으로 파고들거나, 고양이가 난로 앞을 떠나지 않는 모습을 보신 적 있으시죠? 겨울에는 집 안에서 지내는 시간이 길어져 집 안 채비가 더 중요해진다.
 

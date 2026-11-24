@@ -11,6 +11,8 @@ faq: 개는 왜 물건을 씹나? | 미국동물학대방지협회 안내에는 
  혼자 있을 때만 물어뜯는다면? | 같은 안내는 분리불안으로 씹는 개는 대개 혼자 있을 때만 씹거나 그때 가장 심하게 씹고, 낑낑거림·짖기·서성거림·배변 실수 같은 다른 신호도 함께 보인다고 한다.
  익힌 뼈를 줘도 되나? | 먹다 남은 익힌 뼈는 주지 말라고 안내한다. 쪼개져 개를 크게 다치게 할 수 있다고 한다. 무엇이 안전한지 걱정되면 수의사와 상의하라고 한다.
 sources: American Society for the Prevention of Cruelty to Animals(ASPCA). Destructive Chewing(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.aspca.org/pet-care/dog-care/common-dog-behavior-issues/destructive-chewing
+date: 2026-11-25
+publish: yes
 ---
 퇴근해 보니 새 신발 한 짝이 너덜너덜해져 있던 적 있으시죠? 속상하지만, 개에게 씹는 일은 세상을 알아 가는 정상적인 행동이다.
 

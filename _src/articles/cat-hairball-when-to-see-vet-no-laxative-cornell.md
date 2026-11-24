@@ -11,6 +11,8 @@ faq: 헤어볼은 왜 생기나? | 고양이가 털을 고르면서 빠진 털�
  헤어볼이 위험할 수도 있나? | 털 뭉치가 너무 커져 좁은 통로를 지나지 못하거나 소장에 단단히 끼면 심각한 문제가 될 수 있다고 한다. 드물지만 수술하지 않으면 목숨이 위험할 수 있다고 안내한다.
  집에서 변비약을 먹여도 되나? | 수의사의 승인과 감독 없이 고양이에게 변비약을 주지 말라고 강하게 권한다. 헤어볼로 생긴 막힘을 막거나 풀어 준다고 내세우는 시판 사료도 마찬가지라고 한다.
 sources: Cornell University College of Veterinary Medicine, Cornell Feline Health Center. The Danger of Hairballs(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.vet.cornell.edu/departments-centers-and-institutes/cornell-feline-health-center/health-information/feline-health-topics/danger-hairballs
+date: 2026-11-25
+publish: yes
 ---
 자다 일어난 고양이가 몇 번 꿀렁이더니 젖은 털 뭉치를 토해 놓은 것을 보신 적 있으시죠? 헤어볼이다. 이름과 달리 토해 낸 헤어볼은 둥글기보다 가늘고 긴 모양일 때가 많다.
 

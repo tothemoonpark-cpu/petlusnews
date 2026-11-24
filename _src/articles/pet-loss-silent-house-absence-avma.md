@@ -11,6 +11,8 @@ faq: 슬픔은 단계대로 지나가나? | 미국수의사회 안내에는 슬�
  「그냥 개잖아」라는 말을 들으면 어떻게 하나? | 같은 안내는 반려동물과의 관계가 특별하고 고유한 유대여서 이해하기 어려워하는 사람도 있다고 적었다. 그리고 당신의 슬픔은 정상이며, 그 관계는 애도받아야 한다고 말한다.
  내 슬픔이 다른 사람보다 가벼운 것 같아 망설여진다면? | 이 안내는 슬픔에 순위를 매길 수 없다고 한다. 당신의 슬픔은 당신의 슬픔이고, 상실을 겪는 누구나처럼 돌봄과 관심을 받을 만하다고 적었다.
 sources: American Veterinary Medical Association. Coping with the loss of a pet(보호자 안내, AVMA 소책자 Pet Loss and Grief 바탕, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet
+date: 2026-11-25
+publish: yes
 ---
 현관문을 열었는데 반기는 소리가 없어 한참 서 계신 적 있으세요? 아이가 떠난 뒤의 집은 같은 집인데도 다르게 느껴질 수 있다.
 

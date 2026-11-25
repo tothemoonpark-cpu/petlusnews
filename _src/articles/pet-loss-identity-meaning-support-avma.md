@@ -11,6 +11,8 @@ faq: 반려동물이 떠난 뒤 내가 누구인지 흔들리는 것은 이상�
  왜 떠났는지, 무슨 의미였는지 답을 찾지 못하면 어떻게 하나? | 같은 안내는 분명한 답을 찾는 것이 아니라 묻는 것 자체가 중요하다고 적었다.
  누구와 이야기하면 좋은가? | 이 안내는 반려동물의 죽음을 겪어 본 다른 보호자와 이야기하거나 함께 있는 것이 한 가지 중요한 방법이 될 수 있다고 한다.
 sources: American Veterinary Medical Association(AVMA). Coping with the loss of a pet(보호자 안내, AVMA 소책자 Pet Loss and Grief 바탕, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/coping-loss-pet
+date: 2026-11-26
+publish: yes
 ---
 산책길에서 자주 마주치던 이웃이 「오늘은 혼자 나오셨네요?」 하고 물을 때, 무슨 말을 해야 할지 몰라 걸음이 멈춘 적 있으시죠? 아이가 떠난 뒤에는 그 길을 걷는 나도 예전의 내가 아닌 것처럼 느껴질 수 있다.
 

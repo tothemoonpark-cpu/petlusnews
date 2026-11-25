@@ -11,6 +11,8 @@ faq: 시동 걸기 전에 무엇을 하면 되나? | 미국수의사회는 차 �
  겨울에는 차 안이 덥지 않으니 잠깐 두어도 되지 않나? | 같은 안내는 추운 날 차가 냉장고처럼 빠르게 식어 반려동물을 금세 춥게 할 수 있다고 한다. 어리거나, 나이가 많거나, 아프거나, 마른 반려동물은 특히 추위에 약해 추운 차 안에 두어서는 안 된다고 적었다.
  겨울에 반려동물을 잃어버리는 일이 많은가? | 이 안내에는 눈과 얼음이 집으로 돌아오는 데 도움이 되는 익숙한 냄새를 가릴 수 있어 겨울에 길을 잃는 반려동물이 많다고 나와 있다.
 sources: American Veterinary Medical Association. Cold weather animal safety(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/cold-weather-animal-safety
+date: 2026-11-26
+publish: yes
 ---
 추운 아침, 급하게 차에 올라 바로 시동을 거신 적 있으시죠? 밖에서 지내는 고양이에게는 막 식어 가는 엔진이 따뜻한 쉼터로 보일 수 있다.
 

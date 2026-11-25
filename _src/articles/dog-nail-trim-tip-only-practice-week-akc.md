@@ -11,6 +11,8 @@ faq: 개 발톱은 얼마나 자주 깎나? | 미국켄넬클럽 안내에는 �
  발톱을 너무 짧게 잘라 피가 나면 어떻게 하나? | 같은 안내는 지혈 가루 같은 지혈 제품을 바로 바르고 침착하게 있으라고 한다. 피가 멈추지 않으면 수의사에게 연락한다.
  검은 발톱은 어디까지 잘라야 하나? | 이 안내는 검은 발톱에서는 분필 같은 흰 고리가 보이는지 살피라고 적었다.
 sources: American Kennel Club(AKC). How to Trim Your Dog's Nails at Home(보호자 안내, 게시 연도 미확인, 2026년 11월 확인) | https://www.akc.org/expert-advice/health/how-to-trim-dogs-nails-safely/
+date: 2026-11-26
+publish: yes
 ---
 발톱깎이를 꺼내기만 해도 개가 소파 밑으로 숨은 적 있으시죠? 바닥을 걸을 때 발톱 소리가 또각또각 나는데도 한 번 피를 본 뒤로는 손이 가지 않는 집이 많다.
 

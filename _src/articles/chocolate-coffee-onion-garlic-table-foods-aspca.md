@@ -11,6 +11,8 @@ faq: 초콜릿은 왜 위험한가? | 미국동물학대방지협회 안내에�
  화이트 초콜릿은 괜찮나? | 같은 안내는 화이트 초콜릿에 이 성분이 가장 적고, 베이킹 초콜릿과 코코아 가루에 가장 많다고 적었다. 적다는 것이지 먹여도 된다는 뜻은 아니다.
  양파와 마늘은 개와 고양이 가운데 누가 더 위험한가? | 이 안내에 따르면 고양이가 더 약하지만, 개도 먹은 양에 따라 위험하다.
 sources: American Society for the Prevention of Cruelty to Animals(ASPCA) Poison Control. People Foods to Avoid Feeding Your Pets(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.aspca.org/pet-care/aspca-poison-control/people-foods-avoid-feeding-your-pets
+date: 2026-11-26
+publish: yes
 ---
 식탁에 올려 둔 초콜릿 상자를 개가 뜯어 놓은 적 있으시죠? 모임이 잦은 연말에는 사람 음식이 손 닿는 곳에 놓이는 날이 많다.
 

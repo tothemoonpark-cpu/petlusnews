@@ -11,6 +11,8 @@ faq: 고양이가 울면 모른 척해야 하나? | 미국동물학대방지협�
  많이 우는 고양이를 혼내면 줄어드나? | 같은 안내는 꾸짖거나 때리지 말라고 한다. 처음에는 달아나게 만들 수 있어도 우는 행동에 오래가는 효과는 없을 것이라고 적었다.
  원래 밥 달라고 잘 우는 고양이도 병원에 가야 하나? | 이 안내는 밥을 달라고 울어 온 고양이라도 수의사에게 확인받으라고 한다. 여러 병이 고양이를 유난히 배고프게, 목마르게, 불안하게 만들 수 있어서다.
 sources: American Society for the Prevention of Cruelty to Animals(ASPCA). Meowing and Yowling(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.aspca.org/pet-care/cat-care/common-cat-behavior-issues/meowing-and-yowling
+date: 2026-11-26
+publish: yes
 ---
 아직 날도 밝지 않았는데 고양이가 머리맡에서 울어, 결국 일어나 밥을 준 적 있으시죠? 그렇게 한 번 주고 나면 다음 날에도 같은 시각에 우는 소리가 난다.
 

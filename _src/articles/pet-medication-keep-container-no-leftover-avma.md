@@ -11,6 +11,8 @@ faq: 예전에 먹이던 약이 남았는데 같은 증상이면 먹여도 되�
  약을 한 번 빼먹었거나 너무 많이 먹였으면 어떻게 하나? | 같은 안내는 수의사에게 연락하라고 한다. 병원이 문을 닫은 때에 너무 많이 먹였다면 응급 진료 기관에 연락한다.
  개 약을 고양이에게 줘도 되나? | 이 안내는 개 약을 고양이에게 절대 쓰지 말라고 적었다. 개에게 안전한 약이 고양이에게는 안전하지 않을 수 있어서다.
 sources: American Veterinary Medical Association(AVMA). Your Pet's Medications(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources/pet-owners/petcare/your-pets-medications
+date: 2026-11-27
+publish: yes
 ---
 서랍을 열었다가 지난번에 먹이다 남은 약 봉지를 보고, 「그때랑 증상이 똑같은데 이걸 먹일까」 하고 망설인 적 있으시죠? 병원에 갈 시간이 없는 날에는 더 그렇다.
 

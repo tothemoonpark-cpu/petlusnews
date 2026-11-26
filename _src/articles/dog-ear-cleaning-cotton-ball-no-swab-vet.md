@@ -14,6 +14,8 @@ sources: Cornell University College of Veterinary Medicine, Riney Canine Health 
  Cornell University College of Veterinary Medicine, Riney Canine Health Center. Itchy ear problems | https://www.vet.cornell.edu/departments-centers-and-institutes/riney-canine-health-center/canine-health-information/itchy-ear-problems
  Merck Veterinary Manual. How to Clean Your Dog's Ears | https://www.merckvetmanual.com/multimedia/table/how-to-clean-your-dogs-ears
  Merck Veterinary Manual(Dog Owners). Ear Infections and Otitis Externa in Dogs | https://www.merckvetmanual.com/dog-owners/ear-disorders-of-dogs/ear-infections-and-otitis-externa-in-dogs
+date: 2026-11-27
+publish: yes
 ---
 개가 자꾸 머리를 털어서 귀를 들춰 보고, 면봉을 집어 든 적 있으시죠? 깨끗하게 해 주려는 마음이지만, 쓰는 도구와 귀 상태에 따라 오히려 귀가 더 나빠질 수 있다.
 

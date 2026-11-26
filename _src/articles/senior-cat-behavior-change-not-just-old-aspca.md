@@ -11,6 +11,8 @@ faq: 나이 든 고양이의 행동이 달라지면 가장 먼저 할 일은? | 
  화장실 실수가 늘면 집에서 무엇을 바꾸나? | 같은 안내는 병이 아닌 것으로 확인되면 화장실 수를 늘리고, 찾기 쉽고 들어가기 쉬운 곳에 더 두고, 턱이 낮은 화장실을 쓰라고 권한다. 원래 있던 화장실은 그 자리에 그대로 둔다.
  집 안에서 헤매는 고양이는 어떻게 돕나? | 이 안내는 밥, 밥 자리, 모래, 화장실 자리를 바꾸지 말고 하루 일과를 되도록 한결같이 지키라고 적었다.
 sources: American Society for the Prevention of Cruelty to Animals(ASPCA). Older Cats with Behavior Problems(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.aspca.org/pet-care/cat-care/common-cat-behavior-issues/older-cats-behavior-problems
+date: 2026-11-27
+publish: yes
 ---
 열다섯 살 넘은 고양이가 늘 쓰던 화장실 옆 바닥에 실수를 해 놓은 것을 보고, 「이제 나이가 들어서 그렇구나」 하고 닦기만 한 적 있으시죠? 그 생각이 틀린 것은 아니지만, 거기서 멈추면 도울 수 있는 것을 놓칠 수 있다.
 

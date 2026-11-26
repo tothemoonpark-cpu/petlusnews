@@ -11,6 +11,8 @@ faq: 사료를 만진 뒤 왜 손을 씻어야 하나? | 미국수의사회 안�
  건사료는 통에 부어 두면 안 되나? | 같은 안내는 되도록 원래 포대째 깨끗한 전용 밀폐 용기에 넣어 두라고 한다. 포대를 쓰지 않는다면 제품 이름, 제조일, 제조 번호, 유통기한이 적힌 부분을 남겨 두라고 적었다.
  먹다 남은 습식 사료는 어떻게 하나? | 이 안내는 바로 밀봉해 냉장고에 넣거나 버리라고 한다. 냉장한 것은 되도록 빨리, 포장에 적힌 대로 쓴다.
 sources: American Veterinary Medical Association(AVMA). Safe handling of pet food and pet treats(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/safe-handling-pet-food-and-pet-treats
+date: 2026-11-27
+publish: yes
 ---
 새 사료를 사 오면 통에 쏟아붓고 포대는 바로 버린 적 있으시죠? 밥을 줄 때는 밥그릇으로 사료를 푹 떠서 담기도 한다.
 

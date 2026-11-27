@@ -11,6 +11,8 @@ faq: 고양이들이 싸우면 서열이 정해질 때까지 두면 되나? | �
  장난으로 뒹구는 것과 싸움은 어떻게 다른가? | 같은 안내는 놀이라면 서로 주고받고 역할을 자주 바꾼다고 설명한다. 놀 때는 귀가 대개 앞을 향하고, 몸이 뒤가 아니라 앞으로 기운다.
  잘 지내던 고양이들이 갑자기 싸우면 어떻게 하나? | 이 안내는 갑작스러운 행동 변화가 숨은 병의 신호일 수 있다고 적었다. 평소와 다른 몸이나 행동의 증상이 보이거나 밥을 먹지 않으면 바로 수의사에게 보인다.
 sources: American Society for the Prevention of Cruelty to Animals(ASPCA). Aggression Between Cats in Your Household(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.aspca.org/pet-care/cat-care/common-cat-behavior-issues/aggression-between-cats-your-household
+date: 2026-11-28
+publish: yes
 ---
 한 마리가 지나갈 때마다 다른 한 마리가 하악거리고, 밥 먹는 자리 앞에서 서로 노려보는 것을 보고 「저러다 말겠지」 하고 넘긴 적 있으시죠? 기다리는 동안 사이가 더 벌어지는 집이 많다.
 

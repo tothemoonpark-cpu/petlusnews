@@ -11,6 +11,8 @@ faq: 마이크로칩에는 보호자 연락처가 들어 있나? | 미국수의�
  칩을 심으면 목걸이 이름표는 없어도 되나? | 같은 안내는 마이크로칩을 심은 반려동물도 지금 연락처가 적힌 이름표를 단 목걸이를 함께 하는 것이 가장 좋다고 한다.
  칩이 제대로 있는지는 어떻게 아나? | 이 안내는 정기 검진 때 수의사에게 칩을 읽어 달라고 해, 칩이 있고 제대로 작동하는지 확인하는 것이 좋다고 적었다.
 sources: American Veterinary Medical Association(AVMA). Microchips reunite pets with families(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/microchips-reunite-pets-families
+date: 2026-11-28
+publish: yes
 ---
 이사를 하거나 전화번호를 바꾼 뒤, 반려동물 등록 정보도 고쳤는지 기억이 안 나는 적 있으시죠? 칩을 심어 둔 것만으로 마음을 놓고 지내는 집이 많다.
 

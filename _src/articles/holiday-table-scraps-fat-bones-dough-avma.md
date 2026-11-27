@@ -11,6 +11,8 @@ faq: 남은 고기 기름이나 껍질을 조금 주는 것도 안 되나? | 미
  뼈는 왜 안 되나? | 같은 안내는 뼈가 목에 걸리거나 장을 막을 수 있다고 적었다.
  먹으면 안 되는 것을 먹은 것 같으면 어떤 모습이 보이나? | 이 안내는 갑작스러운 행동 변화, 처짐, 통증, 식욕 없음, 구토, 설사를 든다. 이런 모습이 보이면 바로 수의사나 가까운 응급 동물병원에 전화한다.
 sources: American Veterinary Medical Association(AVMA). Winter holiday pet safety(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/holiday-pet-safety
+date: 2026-11-28
+publish: yes
 ---
 모임이 끝나고 상을 치우다가, 접시에 남은 고기 껍질과 뼈를 「이건 네 거」 하고 개에게 내민 적 있으시죠? 손님이 식탁 밑으로 한 점씩 건네는 날도 있다.
 

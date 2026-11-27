@@ -11,6 +11,8 @@ faq: 운동을 안 하던 개는 산책을 어떻게 시작하나? | 미국수�
  산책 중에 냄새만 맡으려 하면 끌고 가야 하나? | 같은 안내는 산책이 개가 주변을 즐기는 수단이기도 하다며, 무리가 없는 선에서 냄새 맡는 쉬는 시간을 주라고 한다.
  어떤 모습이 보이면 산책을 멈춰야 하나? | 이 안내는 다치거나 절뚝거리기 시작하거나, 비틀거리거나, 숨쉬기 힘들어하거나, 걷기를 꺼리면 산책을 줄이라고 적었다.
 sources: American Veterinary Medical Association(AVMA). Walking or running with your dog(보호자 안내, 게시 연도 표기 없음, 2026년 11월 확인) | https://www.avma.org/resources-tools/pet-owners/petcare/walking-your-pet
+date: 2026-11-28
+publish: yes
 ---
 「살 좀 빼야겠어요」라는 말을 듣고 온 날, 마음먹고 한 시간을 걸었다가 개가 다음 날 종일 누워만 있던 적 있으시죠? 잘해 주려던 산책이 개에게는 갑작스러운 일이었을 수 있다.
 
